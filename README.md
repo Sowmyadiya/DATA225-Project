@@ -31,6 +31,7 @@ descriptive attributes related to fact data. The database consists of total nine
 ## Summary
 
 The Physical design of the Uber App database architechture is shown in the below diagram.
+<img width="1003" alt="Screen Shot 2022-02-12 at 2 41 05 PM" src="https://user-images.githubusercontent.com/49642360/153731113-22bd16a0-b291-4f94-a736-5c1715f856d4.png">
 
 
 
