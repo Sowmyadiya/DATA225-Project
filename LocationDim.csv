@@ -1,0 +1,1500 @@
+﻿location_id,street_address_1,street_address_2,city,state,zip,latitude,longitude,landmark_name
+loc01,727,Hollow Ridge,Antelope,Oregon,97001,44.99029,-120.60403,state building
+loc02,50,Scott,Aurora,Oregon,97002,45.24048,-122.79384,mall
+loc03,3,Clyde Gallagher,Beavercreek,Oregon,97004,45.25496,-122.44938,school
+loc04,76,Dunning,Beaverton,Oregon,97005,45.49096,-122.80359,airport
+loc05,8,Maple Wood,Beaverton,Oregon,97006,45.51701,-122.85982,airport
+loc06,7,1st,Beaverton,Oregon,97007,45.45427,-122.87962,airport
+loc07,1,Schurz,Beaverton,Oregon,97008,45.46019,-122.8042,airport
+loc08,27447,Forest Run,Boring,Oregon,97009,45.42299,-122.33277,airport
+loc09,7017,East,Bridal Veil,Oregon,97010,45.55,-122.27,airport
+loc10,6,Fieldstone,Brightwood,Oregon,97011,45.38713,-122.02642,airport
+loc11,37456,Jenifer,Canby,Oregon,97013,45.22082,-122.66828,airport
+loc12,501,Daystar,Cascade Locks,Oregon,97014,45.5685,-122.04455,mall
+loc13,24179,Bonner,Clackamas,Oregon,97015,45.41352,-122.53676,mall
+loc14,49,Elmside,Clatskanie,Oregon,97016,46.06031,-123.26695,school
+loc15,15,Stoughton,Colton,Oregon,97017,45.17652,-122.38969,mosque
+loc16,8289,Kenwood,Columbia City,Oregon,97018,45.89926,-122.81222,mosque
+loc17,284,Elgar,Corbett,Oregon,97019,45.51563,-122.24273,mosque
+loc18,68606,Oriole,Donald,Oregon,97020,45.22295,-122.83362,mosque
+loc19,343,Kenwood,Dufur,Oregon,97021,45.38592,-121.14238,mall
+loc20,2,Caliangt,Eagle Creek,Oregon,97022,45.34673,-122.31996,mall
+loc21,457,Spohn,Estacada,Oregon,97023,45.27848,-122.32319,mall
+loc22,500,Sutteridge,Fairview,Oregon,97024,45.54662,-122.44235,mall
+loc23,1,Iowa,Gervais,Oregon,97026,45.10615,-122.95994,mall
+loc24,51186,Dorton,Gladstone,Oregon,97027,45.38565,-122.59283,mall
+loc25,5,Hansons,Government Camp,Oregon,97028,45.28845,-121.80728,mall
+loc26,28801,Hayes,Grass Valley,Oregon,97029,45.28709,-120.80228,mall
+loc27,5956,Dovetail,Gresham,Oregon,97030,45.5092,-122.43347,school
+loc28,34,Moulton,Hood River,Oregon,97031,45.62669,-121.55039,school
+loc29,2602,Utah,Hubbard,Oregon,97032,45.17663,-122.78388,temple
+loc30,760,Vahlen,Kent,Oregon,97033,45.28025,-120.59588,temple
+loc31,80,Susan,Lake Oswego,Oregon,97034,45.40935,-122.68347,temple
+loc32,25095,Kropf,Lake Oswego,Oregon,97035,45.4135,-122.72517,school
+loc33,58424,Colorado,Marylhurst,Oregon,97036,45.39,-122.64,chruch
+loc34,60725,Dennis,Maupin,Oregon,97037,45.06705,-121.02762,chruch
+loc35,7,Lien,Molalla,Oregon,97038,45.09544,-122.55895,chruch
+loc36,6,Atwood,Moro,Oregon,97039,45.45156,-120.66486,chruch
+loc37,1,Hauk,Mosier,Oregon,97040,45.61711,-121.38812,mall
+loc38,2004,Old Shore,Mount Hood Parkdale,Oregon,97041,45.43625,-121.62479,mall
+loc39,217,Melvin,Mulino,Oregon,97042,45.20772,-122.53722,bus station 
+loc40,9,Ryan,Odell,Oregon,97044,45.62,-121.54,bus station 
+loc41,5921,Superior,Oregon City,Oregon,97045,45.32028,-122.53647,bus station 
+loc42,97,Ludington,Rainier,Oregon,97048,46.0448,-122.98202,bus station 
+loc43,931,Farmco,Rhododendron,Oregon,97049,45.34525,-121.86274,mall
+loc44,5101,Green Ridge,Rufus,Oregon,97050,45.67358,-120.78163,mall
+loc45,66819,Mendota,Saint Helens,Oregon,97051,45.8757,-122.94901,airport
+loc46,145,Marquette,Warren,Oregon,97053,45.82798,-122.88329,airport
+loc47,62479,Dexter,Deer Island,Oregon,97054,45.94224,-122.94959,airport
+loc48,8,Autumn Leaf,Sandy,Oregon,97055,45.38872,-122.15507,airport
+loc49,88384,Valley Edge,Scappoose,Oregon,97056,45.77204,-122.96941,airport
+loc50,2315,Ohio,Shaniko,Oregon,97057,45.00273,-120.74997,airport
+loc51,4135,Elmside,The Dalles,Oregon,97058,45.53645,-121.15525,airport
+loc52,6,Sullivan,Troutdale,Oregon,97060,45.53133,-122.36909,airport
+loc53,235,Ryan,Tualatin,Oregon,97062,45.3693,-122.76231,airport
+loc54,11,La Follette,Tygh Valley,Oregon,97063,45.2249,-121.30113,mall
+loc55,8431,Almo,Vernonia,Oregon,97064,45.85909,-123.23552,mall
+loc56,49,3rd,Wasco,Oregon,97065,45.60764,-120.64462,state building
+loc57,326,Bunker Hill,Welches,Oregon,97067,45.29773,-122.05896,themepark
+loc58,42,Russell,West Linn,Oregon,97068,45.35251,-122.66853,themepark
+loc59,92657,Chive,Wilsonville,Oregon,97070,45.30611,-122.77307,themepark
+loc60,3618,Graedel,Woodburn,Oregon,97071,45.13419,-122.82649,mall
+loc61,2030,Algoma,Beaverton,Oregon,97075,45.49,-122.8,mall
+loc62,6917,Logan,Beaverton,Oregon,97076,45.49,-122.8,college
+loc63,46777,Pleasure,Beaverton,Oregon,97077,45.49,-122.8,school
+loc64,41014,Old Shore,Gresham,Oregon,97080,45.47831,-122.39073,school
+loc65,95,Mallory,Happy Valley,Oregon,97086,45.44505,-122.52817,school
+loc66,675,Corry,Damascus,Oregon,97089,45.42642,-122.44299,state building
+loc67,766,Swallow,Amity,Oregon,97101,45.0902,-123.2287,themepark
+loc68,6,Kim,Arch Cape,Oregon,97102,45.79566,-123.95982,college
+loc69,7941,Forest Run,Astoria,Oregon,97103,46.13392,-123.71061,airport
+loc70,9,Amoth,Banks,Oregon,97106,45.66568,-123.11898,mall
+loc71,1572,Schmedeman,Bay City,Oregon,97107,45.55252,-123.87938,airport
+loc72,7531,Kim,Beaver,Oregon,97108,45.26888,-123.70878,airport
+loc73,8622,Warrior,Buxton,Oregon,97109,45.73783,-123.18121,airport
+loc74,0,Sullivan,Cannon Beach,Oregon,97110,45.90104,-123.9554,school
+loc75,902,Pierstorff,Carlton,Oregon,97111,45.28455,-123.19519,school
+loc76,7124,Roxbury,Cloverdale,Oregon,97112,45.27123,-123.86847,state building
+loc77,56181,Almo,Cornelius,Oregon,97113,45.49724,-123.04434,mall
+loc78,24,Rigney,Dayton,Oregon,97114,45.18786,-123.07657,mall
+loc79,286,Cottonwood,Dundee,Oregon,97115,45.27523,-123.03946,mall
+loc80,7,Towne,Forest Grove,Oregon,97116,45.58082,-123.16569,mall
+loc81,1676,Valley Edge,Gales Creek,Oregon,97117,45.63144,-123.2879,mall
+loc82,41,Vidon,Garibaldi,Oregon,97118,45.56077,-123.91134,mall
+loc83,7,Bay,Gaston,Oregon,97119,45.46886,-123.20021,mall
+loc84,7,Ridgeway,Hammond,Oregon,97121,46.17192,-123.95184,mall
+loc85,8,Vernon,Hebo,Oregon,97122,45.16142,-123.82578,mall
+loc86,95868,Ilene,Hillsboro,Oregon,97123,45.44016,-122.98008,mall
+loc87,3478,Trailsway,Hillsboro,Oregon,97124,45.56908,-122.9467,mall
+loc88,98,Cambridge,Manning,Oregon,97125,45.67116,-123.19698,mall
+loc89,5,Boyd,Lafayette,Oregon,97127,45.24613,-123.11135,mosque
+loc90,49543,Daystar,Mcminnville,Oregon,97128,45.21192,-123.28209,mosque
+loc91,0,Bluejay,Manzanita,Oregon,97130,45.67151,-123.93342,mosque
+loc92,3072,Summer Ridge,Nehalem,Oregon,97131,45.7369,-123.81702,mosque
+loc93,90,Pine View,Newberg,Oregon,97132,45.32422,-122.98733,themepark
+loc94,5,Bay,North Plains,Oregon,97133,45.7021,-123.02978,state building
+loc95,67038,Fremont,Oceanside,Oregon,97134,45.45758,-123.97704,themepark
+loc96,7,Farwell,Pacific City,Oregon,97135,45.22186,-123.9627,school
+loc97,57,Mesta,Rockaway Beach,Oregon,97136,45.63059,-123.92077,themepark
+loc98,33,Memorial,Saint Paul,Oregon,97137,45.21951,-122.94849,chruch
+loc99,70,Buena Vista,Seaside,Oregon,97138,45.85356,-123.56934,chruch
+loc100,153,Anhalt,Sherwood,Oregon,97140,45.35308,-122.86584,chruch
+loc101,847,Mesta,Tillamook,Oregon,97141,45.51073,-123.74337,chruch
+loc102,87046,Oak Valley,Netarts,Oregon,97143,45.43,-123.94,themepark
+loc103,60874,Anthes,Timber,Oregon,97144,45.74156,-123.30024,state building
+loc104,69,7th,Tolovana Park,Oregon,97145,45.85115,-123.95073,school
+loc105,484,Dwight,Warrenton,Oregon,97146,46.1297,-123.94591,school
+loc106,38,Victoria,Wheeler,Oregon,97147,45.688,-123.87863,school
+loc107,101,Kedzie,Yamhill,Oregon,97148,45.3584,-123.24848,school
+loc108,893,Carpenter,Neskowin,Oregon,97149,45.11295,-123.93904,school
+loc109,62,Fair Oaks,Portland,Oregon,97201,45.50786,-122.69079,school
+loc110,17323,Havey,Portland,Oregon,97202,45.48254,-122.64394,school
+loc111,0,Charing Cross,Portland,Oregon,97203,45.60355,-122.73791,school
+loc112,535,Evergreen,Portland,Oregon,97204,45.51837,-122.67395,school
+loc113,87,Nobel,Portland,Oregon,97205,45.52056,-122.71023,school
+loc114,38007,Farmco,Portland,Oregon,97206,45.48243,-122.5986,school
+loc115,2702,5th,Portland,Oregon,97207,45.52,-122.68,school
+loc116,77468,Nevada,Portland,Oregon,97208,45.52867,-122.67898,school
+loc117,94674,Kenwood,Portland,Oregon,97209,45.53112,-122.68395,school
+loc118,23,Kensington,Portland,Oregon,97210,45.54416,-122.72663,school
+loc119,19790,Eastwood,Portland,Oregon,97211,45.58113,-122.63731,school
+loc120,76345,Messerschmidt,Portland,Oregon,97212,45.54424,-122.64347,school
+loc121,506,Twin Pines,Portland,Oregon,97213,45.53819,-122.60001,state building
+loc122,478,Novick,Portland,Oregon,97214,45.51467,-122.64301,themepark
+loc123,2468,School,Portland,Oregon,97215,45.51512,-122.60063,airport
+loc124,36423,Service,Portland,Oregon,97216,45.51389,-122.5584,airport
+loc125,55,Gerald,Portland,Oregon,97217,45.60181,-122.7008,airport
+loc126,83,Kingsford,Portland,Oregon,97218,45.57624,-122.60087,airport
+loc127,3112,Butterfield,Portland,Oregon,97219,45.45423,-122.69853,airport
+loc128,84503,Westend,Portland,Oregon,97220,45.55002,-122.5593,airport
+loc129,6192,Derek,Portland,Oregon,97221,45.49828,-122.72884,airport
+loc130,239,Pankratz,Portland,Oregon,97222,45.44095,-122.61811,airport
+loc131,1,Cottonwood,Portland,Oregon,97223,45.44029,-122.7766,airport
+loc132,77,Mariners Cove,Portland,Oregon,97224,45.4055,-122.79506,airport
+loc133,777,Mcbride,Portland,Oregon,97225,45.50285,-122.77021,airport
+loc134,3,Hagan,Portland,Oregon,97227,45.54339,-122.6781,airport
+loc135,2,Mitchell,Portland,Oregon,97228,45.53,-122.68,airport
+loc136,5,Merchant,Portland,Oregon,97229,45.55103,-122.80927,airport
+loc137,78,Northridge,Portland,Oregon,97230,45.55776,-122.50527,airport
+loc138,964,Aberg,Portland,Oregon,97231,45.68763,-122.82421,airport
+loc139,511,Moose,Portland,Oregon,97232,45.52893,-122.64393,airport
+loc140,8564,Artisan,Portland,Oregon,97233,45.51531,-122.50217,airport
+loc141,72,Johnson,Portland,Oregon,97236,45.48321,-122.51052,airport
+loc142,88329,Upham,Portland,Oregon,97238,45.57,-122.6,airport
+loc143,4183,Pearson,Portland,Oregon,97239,45.48994,-122.69045,airport
+loc144,71939,Tennyson,Portland,Oregon,97240,45.5,-122.65,airport
+loc145,66,Cherokee,Portland,Oregon,97242,45.48,-122.64,airport
+loc146,1572,Center,Portland,Oregon,97256,45.51,-122.67,airport
+loc147,5,Summit,Portland,Oregon,97258,45.51,-122.67,airport
+loc148,2891,Dryden,Portland,Oregon,97266,45.48297,-122.55762,airport
+loc149,5581,Autumn Leaf,Portland,Oregon,97267,45.40843,-122.61287,airport
+loc150,52192,Morning,Portland,Oregon,97268,45.41,-122.63,hospital
+loc151,34,Service,Portland,Oregon,97269,45.44,-122.61,hospital
+loc152,6,Mccormick,Portland,Oregon,97280,45.45,-122.7,hospital
+loc153,80,Briar Crest,Portland,Oregon,97281,45.44,-122.77,hospital
+loc154,23545,Milwaukee,Portland,Oregon,97282,45.48,-122.64,hospital
+loc155,10551,Paget,Portland,Oregon,97283,45.53,-122.65,hospital
+loc156,2,Esch,Portland,Oregon,97286,45.48,-122.59,hospital
+loc157,72295,Hazelcrest,Portland,Oregon,97290,45.57,-122.64,hospital
+loc158,86,Blackbird,Portland,Oregon,97291,45.54,-122.72,school
+loc159,2,Bay,Portland,Oregon,97292,45.51,-122.55,state building
+loc160,22,Linden,Portland,Oregon,97293,45.51,-122.64,college
+loc161,1218,Hazelcrest,Portland,Oregon,97294,45.54,-122.49,college
+loc162,3,6th,Portland,Oregon,97296,45.53,-122.77,college
+loc163,98,Carioca,Portland,Oregon,97298,45.5,-122.77,college
+loc164,0,Pankratz,Salem,Oregon,97301,44.94878,-123.00365,college
+loc165,2370,Mendota,Salem,Oregon,97302,44.9031,-123.06453,college
+loc166,840,Crownhardt,Salem,Oregon,97303,45.03035,-123.02369,college
+loc167,8412,Armistice,Salem,Oregon,97304,45.0066,-123.11169,college
+loc168,566,La Follette,Salem,Oregon,97305,45.01434,-122.92872,college
+loc169,32,Toban,Salem,Oregon,97306,44.8429,-123.09475,college
+loc170,70,Parkside,Keizer,Oregon,97307,45.01,-123.01,college
+loc171,25842,Warrior,Salem,Oregon,97308,44.89,-122.92,college
+loc172,61543,Lakeland,Salem,Oregon,97309,44.92,-123.01,college
+loc173,199,Superior,Salem,Oregon,97310,44.91,-123,college
+loc174,8410,Mitchell,Salem,Oregon,97311,44.94,-123.02,college
+loc175,6,Emmet,Salem,Oregon,97312,44.89,-123.06,mosque
+loc176,8,Parkside,Salem,Oregon,97314,44.96,-123,mosque
+loc177,7883,Bartelt,Salem,Oregon,97317,44.9026,-122.90737,mosque
+loc178,64,Meadow Vale,Albany,Oregon,97321,44.65345,-123.13953,mosque
+loc179,5271,Moland,Albany,Oregon,97322,44.62755,-123.01761,themepark
+loc180,293,Utah,Alsea,Oregon,97324,44.365,-123.62315,school
+loc181,388,Bowman,Aumsville,Oregon,97325,44.83382,-122.85223,state building
+loc182,4,Aberg,Blodgett,Oregon,97326,44.61948,-123.60281,themepark
+loc183,83475,Burrows,Brownsville,Oregon,97327,44.37504,-122.94759,themepark
+loc184,2199,Sommers,Cascadia,Oregon,97329,44.41127,-122.38462,school
+loc185,9,Maywood,Corvallis,Oregon,97330,44.648,-123.25958,themepark
+loc186,8,Forest Run,Corvallis,Oregon,97331,44.5646,-123.28042,hospital
+loc187,4,Holmberg,Corvallis,Oregon,97333,44.46807,-123.29383,hospital
+loc188,76964,Kings,Crabtree,Oregon,97335,44.63,-122.89,hospital
+loc189,25,Huxley,Crawfordsville,Oregon,97336,44.35,-122.85,hospital
+loc190,5,Porter,Dallas,Oregon,97338,44.92662,-123.34741,hospital
+loc191,78250,Arapahoe,Corvallis,Oregon,97339,44.56,-123.26,hospital
+loc192,68,Anderson,Depoe Bay,Oregon,97341,44.80932,-124.05124,hospital
+loc193,3048,Old Shore,Detroit,Oregon,97342,44.73927,-121.87897,hospital
+loc194,32,Buhler,Eddyville,Oregon,97343,44.57525,-123.75149,chruch
+loc195,7001,Sugar,Falls City,Oregon,97344,44.8691,-123.46462,chruch
+loc196,1,Butternut,Foster,Oregon,97345,44.41155,-122.57891,chruch
+loc197,79106,Mockingbird,Gates,Oregon,97346,44.78836,-122.33533,chruch
+loc198,671,Southridge,Grand Ronde,Oregon,97347,45.07711,-123.65639,bus station 
+loc199,10607,Clarendon,Halsey,Oregon,97348,44.38329,-123.12226,bus station 
+loc200,51182,Brentwood,Idanha,Oregon,97350,44.63146,-121.86376,bus station 
+loc201,90024,Bobwhite,Independence,Oregon,97351,44.81529,-123.12949,bus station 
+loc202,24,Colorado,Jefferson,Oregon,97352,44.7494,-123.02759,themepark
+loc203,46790,Oak,Lebanon,Oregon,97355,44.53224,-122.82104,state building
+loc204,2,Katie,Logsden,Oregon,97357,44.75267,-123.8256,themepark
+loc205,12313,Dottie,Lyons,Oregon,97358,44.80412,-122.41362,school
+loc206,77,Carey,Mill City,Oregon,97360,44.76627,-122.4994,themepark
+loc207,171,Harbort,Monmouth,Oregon,97361,44.76684,-123.34497,mosque
+loc208,70,Thierer,Mount Angel,Oregon,97362,45.06349,-122.77131,mosque
+loc209,54693,Mallard,Neotsu,Oregon,97364,44.99886,-123.98685,mosque
+loc210,7869,Old Shore,Newport,Oregon,97365,44.6664,-124.01078,mosque
+loc211,85,Macpherson,South Beach,Oregon,97366,44.57568,-124.05835,themepark
+loc212,9936,Trailsway,Lincoln City,Oregon,97367,44.91476,-123.97423,themepark
+loc213,5911,Butterfield,Otis,Oregon,97368,45.02438,-123.90312,themepark
+loc214,9,Raven,Otter Rock,Oregon,97369,44.76151,-124.05177,chruch
+loc215,5,Ilene,Philomath,Oregon,97370,44.56375,-123.44545,chruch
+loc216,0,Kingsford,Rickreall,Oregon,97371,44.9907,-123.19076,chruch
+loc217,47435,Butterfield,Saint Benedict,Oregon,97373,45.05704,-122.77175,chruch
+loc218,8,Stone Corner,Scio,Oregon,97374,44.67591,-122.77813,themepark
+loc219,429,Kropf,Scotts Mills,Oregon,97375,44.97732,-122.59634,school
+loc220,6513,Ramsey,Seal Rock,Oregon,97376,44.49823,-123.97501,themepark
+loc221,6188,Dottie,Shedd,Oregon,97377,44.46329,-123.106,state building
+loc222,7502,Basil,Sheridan,Oregon,97378,45.07069,-123.42113,state building
+loc223,30,Carioca,Siletz,Oregon,97380,44.78602,-123.92997,state building
+loc224,82,Ludington,Silverton,Oregon,97381,44.93947,-122.72072,state building
+loc225,10,Summer Ridge,Stayton,Oregon,97383,44.79446,-122.72186,school
+loc226,23,Westport,Mehama,Oregon,97384,44.79099,-122.61888,state building
+loc227,560,Haas,Sublimity,Oregon,97385,44.86585,-122.72355,state building
+loc228,18,Caliangt,Sweet Home,Oregon,97386,44.35918,-122.72704,state building
+loc229,209,Comanche,Gleneden Beach,Oregon,97388,44.90351,-124.01786,mosque
+loc230,34996,Dennis,Tangent,Oregon,97389,44.53348,-123.08979,mosque
+loc231,2,Artisan,Tidewater,Oregon,97390,44.30941,-123.82882,mosque
+loc232,8892,Kim,Toledo,Oregon,97391,44.62454,-123.89837,mosque
+loc233,6,Messerschmidt,Turner,Oregon,97392,44.79561,-122.93038,state building
+loc234,3795,Gerald,Waldport,Oregon,97394,44.44386,-123.90716,bus station 
+loc235,65020,Westerfield,Willamina,Oregon,97396,45.1046,-123.54927,bus station 
+loc236,14127,5th,Eugene,Oregon,97401,44.06799,-123.08018,bus station 
+loc237,272,Monica,Eugene,Oregon,97402,44.04774,-123.2309,bus station 
+loc238,2132,Lakeland,Eugene,Oregon,97403,44.03582,-123.05298,state building
+loc239,9370,Sherman,Eugene,Oregon,97404,44.10546,-123.13323,chruch
+loc240,27156,Petterle,Eugene,Oregon,97405,43.93956,-123.19276,chruch
+loc241,92,Mallard,Agness,Oregon,97406,42.61586,-124.02125,chruch
+loc242,410,Comanche,Allegany,Oregon,97407,43.42,-124.03,chruch
+loc243,155,Sycamore,Eugene,Oregon,97408,44.14299,-123.05824,hospital
+loc244,836,Sage,Alvadore,Oregon,97409,44.12,-123.26,hospital
+loc245,78903,Fisk,Azalea,Oregon,97410,42.79894,-123.14787,hospital
+loc246,32,Melby,Bandon,Oregon,97411,43.07564,-124.35938,hospital
+loc247,46,Meadow Ridge,Blachly,Oregon,97412,44.20492,-123.54807,hospital
+loc248,446,Hanover,Blue River,Oregon,97413,44.12478,-122.07228,hospital
+loc249,44,Hooker,Broadbent,Oregon,97414,42.9613,-124.20348,hospital
+loc250,3319,Montana,Brookings,Oregon,97415,42.08439,-124.17476,hospital
+loc251,66,Leroy,Camas Valley,Oregon,97416,43.03412,-123.68673,state building
+loc252,59401,Hovde,Canyonville,Oregon,97417,42.94766,-123.23069,state building
+loc253,69,Di Loreto,Cheshire,Oregon,97419,44.18078,-123.41319,state building
+loc254,111,Maywood,Coos Bay,Oregon,97420,43.35097,-124.13692,chruch
+loc255,8927,Moulton,Coquille,Oregon,97423,43.19367,-124.17327,chruch
+loc256,68,Rigney,Cottage Grove,Oregon,97424,43.74081,-123.01859,chruch
+loc257,2919,Pearson,Creswell,Oregon,97426,43.89893,-123.02995,chruch
+loc258,61,Swallow,Days Creek,Oregon,97429,42.9683,-123.0635,school
+loc259,21008,Dryden,Deadwood,Oregon,97430,44.17484,-123.70519,hospital
+loc260,714,Pearson,Dexter,Oregon,97431,43.86954,-122.84149,hospital
+loc261,0,Logan,Dillard,Oregon,97432,43.16,-123.45,hospital
+loc262,4,Huxley,Dorena,Oregon,97434,43.62129,-122.70322,hospital
+loc263,713,Hazelcrest,Drain,Oregon,97435,43.6902,-123.32847,hospital
+loc264,80592,Canary,Elkton,Oregon,97436,43.64001,-123.58477,hospital
+loc265,768,Grover,Elmira,Oregon,97437,44.09311,-123.40875,hospital
+loc266,5756,Summerview,Fall Creek,Oregon,97438,43.94424,-122.68246,hospital
+loc267,80,Crest Line,Florence,Oregon,97439,44.09018,-124.04834,college
+loc268,97,Moulton,Eugene,Oregon,97440,44.05,-123.11,college
+loc269,45,4th,Gardiner,Oregon,97441,43.75183,-124.16615,college
+loc270,712,Village Green,Glendale,Oregon,97442,42.78037,-123.42537,college
+loc271,140,Pepper Wood,Glide,Oregon,97443,43.25048,-123.00426,college
+loc272,7277,Kingsford,Gold Beach,Oregon,97444,42.5061,-124.3373,college
+loc273,9,Oak Valley,Harrisburg,Oregon,97446,44.26073,-123.05465,college
+loc274,97,Carey,Idleyld Park,Oregon,97447,43.15525,-122.21046,college
+loc275,61009,Sutteridge,Junction City,Oregon,97448,44.20833,-123.27991,college
+loc276,2711,5th,Lakeside,Oregon,97449,43.56337,-124.04051,college
+loc277,41352,Miller,Langlois,Oregon,97450,42.90594,-124.39706,college
+loc278,50,Grasskamp,Lorane,Oregon,97451,43.81523,-123.26802,college
+loc279,5,Mayfield,Lowell,Oregon,97452,43.87411,-122.75008,college
+loc280,62,Londonderry,Mapleton,Oregon,97453,43.98024,-123.85017,college
+loc281,9,Buena Vista,Marcola,Oregon,97454,44.22151,-122.82165,mosque
+loc282,45161,Service,Pleasant Hill,Oregon,97455,43.96855,-122.91966,mosque
+loc283,837,Straubel,Monroe,Oregon,97456,44.33925,-123.36642,mosque
+loc284,822,Lawn,Myrtle Creek,Oregon,97457,43.06451,-123.22947,mosque
+loc285,2,Mesta,Myrtle Point,Oregon,97458,43.04884,-124.00854,church
+loc286,746,Merchant,North Bend,Oregon,97459,43.48422,-124.18273,state building
+loc287,6,Anthes,Noti,Oregon,97461,44.10853,-123.47976,church
+loc288,4,Petterle,Oakland,Oregon,97462,43.48997,-123.3792,school
+loc289,394,Ohio,Oakridge,Oregon,97463,43.74068,-122.38717,church
+loc290,6219,Goodland,Ophir,Oregon,97464,42.5,-124.41,church
+loc291,3465,Buena Vista,Port Orford,Oregon,97465,42.76352,-124.34468,church
+loc292,7,Stone Corner,Powers,Oregon,97466,42.84895,-124.08523,hospital
+loc293,931,Oriole,Reedsport,Oregon,97467,43.81589,-123.82391,hospital
+loc294,14,Lien,Riddle,Oregon,97469,42.91068,-123.44588,hospital
+loc295,8967,Prairieview,Roseburg,Oregon,97470,43.25068,-123.24241,hospital
+loc296,75,Cherokee,Roseburg,Oregon,97471,43.21833,-123.48774,hospital
+loc297,81264,Manufacturers,Scottsburg,Oregon,97473,43.67591,-123.8526,hospital
+loc298,99,Arizona,Springfield,Oregon,97475,44.05,-123.02,hospital
+loc299,916,Vidon,Sixes,Oregon,97476,42.84223,-124.4028,hospital
+loc300,21,Oak,Springfield,Oregon,97477,44.05846,-123.0116,airport
+loc301,79203,Heffernan,Springfield,Oregon,97478,44.08916,-122.84227,airport
+loc302,253,Old Gate,Sutherlin,Oregon,97479,43.39035,-123.20831,airport
+loc303,173,Arkansas,Swisshome,Oregon,97480,44.12228,-123.82517,school
+loc304,8532,Di Loreto,Tenmile,Oregon,97481,43.11528,-123.56598,airport
+loc305,6,Aberg,Tiller,Oregon,97484,42.94002,-122.8503,airport
+loc306,1,Mariners Cove,Umpqua,Oregon,97486,43.38332,-123.53164,airport
+loc307,6,Roxbury,Veneta,Oregon,97487,43.98877,-123.38721,school
+loc308,78336,Daystar,Vida,Oregon,97488,44.12863,-122.41747,chruch
+loc309,99,Elka,Walterville,Oregon,97489,44.16472,-122.62068,chruch
+loc310,40357,Hintze,Walton,Oregon,97490,44.00414,-123.61201,chruch
+loc311,56960,Mallard,Wedderburn,Oregon,97491,42.45,-124.4,chruch
+loc312,3,Golden Leaf,Westfir,Oregon,97492,43.71838,-122.48481,bus station 
+loc313,437,Arapahoe,Westlake,Oregon,97493,43.88959,-124.02491,bus station 
+loc314,23,Anderson,Wilbur,Oregon,97494,43.3304,-123.32808,bus station 
+loc315,61,Nova,Winchester,Oregon,97495,43.28104,-123.3152,bus station 
+loc316,4527,Fallview,Winston,Oregon,97496,43.06648,-123.47271,school
+loc317,2102,Artisan,Wolf Creek,Oregon,97497,42.66571,-123.4255,chruch
+loc318,954,Bonner,Yachats,Oregon,97498,44.28461,-124.02268,chruch
+loc319,66,Holmberg,Yoncalla,Oregon,97499,43.59502,-123.24807,chruch
+loc320,95879,International,Medford,Oregon,97501,42.26599,-122.90084,chruch
+loc321,266,Heath,Central Point,Oregon,97502,42.41458,-122.95453,office
+loc322,9151,Troy,White City,Oregon,97503,42.60469,-122.92372,mosque
+loc323,2167,Rieder,Medford,Oregon,97504,42.32795,-122.8005,mosque
+loc324,27199,Briar Crest,Ashland,Oregon,97520,42.18237,-122.57711,mosque
+loc325,38,Mayfield,Butte Falls,Oregon,97522,42.57482,-122.53057,mosque
+loc326,6,Cordelia,Cave Junction,Oregon,97523,42.12309,-123.56687,school
+loc327,95332,Cardinal,Eagle Point,Oregon,97524,42.46747,-122.6477,chruch
+loc328,533,Blackbird,Gold Hill,Oregon,97525,42.45069,-123.06093,chruch
+loc329,72430,Elgar,Grants Pass,Oregon,97526,42.53568,-123.33828,chruch
+loc330,9447,Mockingbird,Grants Pass,Oregon,97527,42.37114,-123.41362,chruch
+loc331,67,Shasta,Grants Pass,Oregon,97528,42.43,-123.32,office
+loc332,29535,Luster,Jacksonville,Oregon,97530,42.15215,-123.0575,office
+loc333,527,Service,Kerby,Oregon,97531,42.19984,-123.64566, school
+loc334,4010,Surrey,Merlin,Oregon,97532,42.57376,-123.52101,temple
+loc335,7,South,Murphy,Oregon,97533,42.33,-123.28,temple
+loc336,804,Sauthoff,O Brien,Oregon,97534,42.11898,-123.78628,temple
+loc337,68,Moose,Phoenix,Oregon,97535,42.26773,-122.81144,chruch
+loc338,40,Dennis,Prospect,Oregon,97536,42.78191,-122.4947,chruch
+loc339,9610,Messerschmidt,Rogue River,Oregon,97537,42.54641,-123.13782,chruch
+loc340,9774,Glacier Hill,Selma,Oregon,97538,42.27054,-123.56742,chruch
+loc341,6,Thackeray,Shady Cove,Oregon,97539,42.57642,-122.78622,college
+loc342,54,Straubel,Talent,Oregon,97540,42.1927,-122.81726,college
+loc343,1500,Westend,Trail,Oregon,97541,42.77488,-122.75541,college
+loc344,4,Scoville,Wilderville,Oregon,97543,42.37506,-123.56213,college
+loc345,97444,Toban,Williams,Oregon,97544,42.16138,-123.30242,college
+loc346,5995,6th,Klamath Falls,Oregon,97601,42.4435,-122.07558,college
+loc347,0,Sherman,Klamath Falls,Oregon,97602,42.19,-121.65,college
+loc348,95,Anhalt,Klamath Falls,Oregon,97603,42.15202,-121.68353,college
+loc349,232,Nelson,Crater Lake,Oregon,97604,42.95386,-122.21315,college
+loc350,307,Oxford,Adel,Oregon,97620,42.20418,-119.78788,college
+loc351,7549,Pepper Wood,Beatty,Oregon,97621,42.46923,-121.29366,college
+loc352,92472,Sunbrook,Bly,Oregon,97622,42.41919,-121.02623,college
+loc353,136,Pawling,Bonanza,Oregon,97623,42.20216,-121.27114,college
+loc354,0,Steensland,Chiloquin,Oregon,97624,43.00325,-121.63569,college
+loc355,243,Norway Maple,Dairy,Oregon,97625,42.31477,-121.58089,college
+loc356,3930,Elgar,Fort Klamath,Oregon,97626,42.66735,-122.02791,university
+loc357,91354,Packers,Keno,Oregon,97627,42.14034,-122.04993,temple
+loc358,6,Lyons,Lakeview,Oregon,97630,42.33135,-120.36745,temple
+loc359,950,Dahle,Malin,Oregon,97632,42.03649,-121.43391,temple
+loc360,205,Almo,Merrill,Oregon,97633,42.03414,-121.56283,university
+loc361,56,Dwight,Midland,Oregon,97634,42.1283,-121.81493,university
+loc362,884,Forster,New Pine Creek,Oregon,97635,41.92999,-120.29419,university
+loc363,83268,Northridge,Paisley,Oregon,97636,42.61664,-120.51446,mosque
+loc364,149,Vermont,Plush,Oregon,97637,42.70338,-119.89006,mosque
+loc365,11,Harper,Silver Lake,Oregon,97638,43.13595,-120.98725,mosque
+loc366,18,Tennyson,Sprague River,Oregon,97639,42.44778,-121.42904,mosque
+loc367,56,Butternut,Summer Lake,Oregon,97640,42.84789,-120.66334,university
+loc368,95133,Warrior,Christmas Valley,Oregon,97641,43.26027,-120.51384,temple
+loc369,550,Corscot,Bend,Oregon,97701,44.11234,-121.20634,temple
+loc370,55350,Ramsey,Bend,Oregon,97702,44.00063,-121.23381,temple
+loc371,847,Main,Bend,Oregon,97707,43.82622,-121.49212,university
+loc372,15,Larry,Bend,Oregon,97708,44.07,-121.3,university
+loc373,609,Schiller,Bend,Oregon,97709,44.06,-121.31,university
+loc374,19180,Hazelcrest,Fields,Oregon,97710,42.17457,-118.47085,school
+loc375,30,Sutherland,Ashwood,Oregon,97711,44.70525,-120.66431,mall
+loc376,5687,Lakeland,Brothers,Oregon,97712,43.78945,-120.45616,chruch
+loc377,67,Prairieview,Burns,Oregon,97720,43.58517,-118.88782,chruch
+loc378,5736,Straubel,Princeton,Oregon,97721,42.52634,-118.44608,chruch
+loc379,6,Duke,Diamond,Oregon,97722,42.94809,-118.71604,chruch
+loc380,9,Kensington,Camp Sherman,Oregon,97730,44.5023,-121.64718,airport
+loc381,26872,Forest Dale,Chemult,Oregon,97731,43.146,-121.79748,airport
+loc382,2815,Clyde Gallagher,Crane,Oregon,97732,43.39729,-118.44311,chruch
+loc383,615,South,Crescent,Oregon,97733,43.37125,-121.99952,chruch
+loc384,9402,Hoepker,Culver,Oregon,97734,44.54244,-121.33615,chruch
+loc385,284,Bowman,Fort Rock,Oregon,97735,43.41069,-120.92617,chruch
+loc386,3405,South,Frenchglen,Oregon,97736,42.74188,-119.0068,mall
+loc387,11,Longview,Gilchrist,Oregon,97737,43.49688,-121.74367,school
+loc388,5,Maple Wood,Hines,Oregon,97738,43.48404,-119.15646,airport
+loc389,12205,Sunbrook,La Pine,Oregon,97739,43.69466,-121.46091,airport
+loc390,28,David,Madras,Oregon,97741,44.65772,-121.05446,hospital
+loc391,1687,Vermont,Mitchell,Oregon,97750,44.65814,-120.1967,hospital
+loc392,71735,Northport,Paulina,Oregon,97751,44.1455,-119.86913,college
+loc393,694,Waxwing,Post,Oregon,97752,44.14292,-120.25439,college
+loc394,7,Portage,Powell Butte,Oregon,97753,44.24051,-121.01813,college
+loc395,2,Moland,Prineville,Oregon,97754,44.15964,-120.58551,college
+loc396,24,International,Redmond,Oregon,97756,44.28333,-121.21672,college
+loc397,9,Messerschmidt,Riley,Oregon,97758,43.33874,-119.87222,college
+loc398,39,Vernon,Sisters,Oregon,97759,44.50062,-121.8985,college
+loc399,3,Garrison,Terrebonne,Oregon,97760,44.37621,-121.24359,college
+loc400,1,Prentice,Warm Springs,Oregon,97761,44.83853,-121.26151,college
+loc401,6540,1st,Pendleton,Oregon,97801,45.67081,-118.82357,college
+loc402,7,Cascade,Adams,Oregon,97810,45.71398,-118.45796,college
+loc403,21,Blue Bill Park,Arlington,Oregon,97812,45.57516,-120.2499,college
+loc404,65,Warbler,Athena,Oregon,97813,45.85041,-118.52808,college
+loc405,5435,Mesta,Baker City,Oregon,97814,44.82757,-117.7578,college
+loc406,0,Waubesa,Bates,Oregon,97817,44.72877,-118.60593,college
+loc407,8815,Elka,Boardman,Oregon,97818,45.78537,-119.89017,chruch
+loc408,1,Welch,Bridgeport,Oregon,97819,44.48535,-117.76039,chruch
+loc409,27984,Trailsway,Canyon City,Oregon,97820,44.07255,-119.47293,chruch
+loc410,522,School,Condon,Oregon,97823,45.23993,-120.21677,chruch
+loc411,2,Talmadge,Cove,Oregon,97824,45.3543,-117.75647,hospital
+loc412,97258,Stang,Dayville,Oregon,97825,44.38513,-119.49627,hospital
+loc413,1,Colorado,Echo,Oregon,97826,45.6643,-119.23232,hospital
+loc414,671,8th,Elgin,Oregon,97827,45.57542,-117.83805,college
+loc415,740,Mcbride,Enterprise,Oregon,97828,45.71656,-117.22199,college
+loc416,5,Northport,Fossil,Oregon,97830,44.96655,-120.18315,college
+loc417,346,Sycamore,Haines,Oregon,97833,44.92889,-118.01488,college
+loc418,694,South,Halfway,Oregon,97834,44.97228,-117.16119,college
+loc419,32398,Algoma,Helix,Oregon,97835,45.91001,-118.78654,college
+loc420,8,Kennedy,Heppner,Oregon,97836,45.32115,-119.47462,college
+loc421,2,Alpine,Hereford,Oregon,97837,44.55666,-118.06711,college
+loc422,566,Columbus,Hermiston,Oregon,97838,45.853,-119.28727,college
+loc423,881,West,Lexington,Oregon,97839,45.59117,-119.59304,college
+loc424,76,Talisman,Oxbow,Oregon,97840,44.8846,-116.91844,college
+loc425,9054,Kinsman,Imbler,Oregon,97841,45.46512,-117.94492,college
+loc426,4328,Magdeline,Imnaha,Oregon,97842,45.39927,-116.73699,college
+loc427,2947,Hooker,Ione,Oregon,97843,45.50232,-119.90287,college
+loc428,85,Pepper Wood,Irrigon,Oregon,97844,45.88415,-119.54884,college
+loc429,487,Mockingbird,John Day,Oregon,97845,44.40182,-118.90306,hospital
+loc430,604,Declaration,Joseph,Oregon,97846,45.4627,-117.03959,hospital
+loc431,5050,Linden,Kimberly,Oregon,97848,44.72218,-119.58055,chruch
+loc432,647,Ronald Regan,La Grande,Oregon,97850,45.30354,-118.11328,chruch
+loc433,70,Hermina,Long Creek,Oregon,97856,44.81521,-119.12525,chruch
+loc434,735,Meadow Valley,Lostine,Oregon,97857,45.38467,-117.48014,chruch
+loc435,9437,Porter,Meacham,Oregon,97859,45.52672,-118.42146,mosque
+loc436,849,Spenser,Mikkalo,Oregon,97861,45.71,-120.2,mosque
+loc437,9901,Mallard,Milton Freewater,Oregon,97862,45.92206,-118.31606,mosque
+loc438,4219,Redwing,Monument,Oregon,97864,44.80547,-119.43593,hospital
+loc439,4,Macpherson,Mount Vernon,Oregon,97865,44.46147,-119.18004,hospital
+loc440,8913,Schurz,North Powder,Oregon,97867,45.07765,-117.99376,hospital
+loc441,295,Basil,Pilot Rock,Oregon,97868,45.40929,-118.85358,hospital
+loc442,3,Graceland,Prairie City,Oregon,97869,44.39756,-118.63398,hospital
+loc443,84371,Sloan,Richland,Oregon,97870,44.78799,-117.18656,hospital
+loc444,71,Elmside,Seneca,Oregon,97873,44.13201,-119.00288,bus station 
+loc445,6,Mccormick,Spray,Oregon,97874,44.77757,-119.86759,bus station 
+loc446,3,Mariners Cove,Stanfield,Oregon,97875,45.81855,-119.13285,bus station 
+loc447,0,Prentice,Summerville,Oregon,97876,45.51644,-118.03568,bus station 
+loc448,89,Hanson,Sumpter,Oregon,97877,44.71174,-118.41052,airport
+loc449,44557,Bunker Hill,Ukiah,Oregon,97880,45.08867,-118.88251,airport
+loc450,3037,Debra,Umatilla,Oregon,97882,45.89743,-119.36607,airport
+loc451,7898,Sage,Union,Oregon,97883,45.19242,-117.63415,airport
+loc452,961,Myrtle,Unity,Oregon,97884,44.45534,-118.22223,airport
+loc453,64479,Barby,Wallowa,Oregon,97885,45.65567,-117.5117,themepark
+loc454,895,Milwaukee,Weston,Oregon,97886,45.80231,-118.27241,themepark
+loc455,0,Service,Adrian,Oregon,97901,43.62145,-117.10728,themepark
+loc456,701,Maywood,Arock,Oregon,97902,42.91,-117.48,hospital
+loc457,94625,Golden Leaf,Brogan,Oregon,97903,44.24681,-117.64698,hospital
+loc458,3,New Castle,Drewsey,Oregon,97904,43.88618,-118.52293,hospital
+loc459,27063,Vernon,Durkee,Oregon,97905,44.57382,-117.45951,hospital
+loc460,418,Johnson,Harper,Oregon,97906,43.53704,-117.77468,hospital
+loc461,147,8th,Huntington,Oregon,97907,44.4195,-117.34551,hospital
+loc462,978,Chive,Ironside,Oregon,97908,44.31238,-117.92789,hospital
+loc463,34779,Hermina,Jamieson,Oregon,97909,44.24669,-117.41896,hospital
+loc464,39975,Grayhawk,Jordan Valley,Oregon,97910,42.74908,-117.51146,themepark
+loc465,476,Fairfield,Juntura,Oregon,97911,43.73648,-118.04139,themepark
+loc466,6,Autumn Leaf,Nyssa,Oregon,97913,43.61359,-117.32329,themepark
+loc467,720,Johnson,Ontario,Oregon,97914,44.11362,-117.08416,mosque
+loc468,293,Tennessee,Riverside,Oregon,97917,43.5,-118.09,mosque
+loc469,8248,Nova,Vale,Oregon,97918,44.03711,-117.35107,mosque
+loc470,8,Darwin,Westfall,Oregon,97920,44.07218,-117.85428,mosque
+loc471,3117,Montana,Oca√±a,california,97921,9.9785656,16.6009592,themepark
+loc472,859,8th,Guai√∫ba,california,97922,54.6194332,124.870243,themepark
+loc473,63,Sherman,Esp√©rance Tr√©buchet,california,97923,25.941937,59.970317,themepark
+loc474,23521,Commercial,Bistrica pri Tr≈æiƒçu,california,97924,59.05729,107.2666396,school
+loc475,926,Grover,Oliveira,california,97925,13.5681668,124.709996,school
+loc476,2719,Lakewood Gardens,Lengji,california,97926,40.97465,105.186237,school
+loc477,259,Jackson,M≈´·∏© ·∏®asan,california,97927,45.991471,124.3973046,school
+loc478,7009,Redwing,Czemierniki,california,97928,37.9510555,117.684,school
+loc479,540,Nobel,Krasnodon,california,97929,36.1899557,44.777047,school
+loc480,32,Holy Cross,Maych‚Äôew,california,97930,46.3367995,123.8732551,school
+loc481,6543,Kingsford,Corrientes,california,97931,64.58897,116.289146,school
+loc482,63,Fremont,Guapor√©,california,97932,41.43999,45.0398942,bus station 
+loc483,4054,Dayton,Or√´l,california,97933,26.7831243,6.0732146,bus station 
+loc484,177,Canary,Yunmeng Chengguanzhen,california,97934,-8.3647,123.2925505,bus station 
+loc485,8,Sutteridge,≈åtsuki,california,97935,-2.5482448,111.409653,bus station 
+loc486,314,Lunder,Anahuac,california,97936,34.8439922,23.7804059,themepark
+loc487,733,Bellgrove,Kramfors,california,97937,-33.229046,4.647618,themepark
+loc488,69,Thackeray,Wukeshu,california,97938,-39.8885744,112.6225104,themepark
+loc489,562,Hoard,Dmitrov,california,97939,26.9373041,-35.4562795,airport
+loc490,4,Mendota,Aranƒëelovac,california,97940,14.5316764,37.6489954,airport
+loc491,78926,Eagle Crest,Baoquan,california,97941,36.4203181,70.6960868,airport
+loc492,93,Lukken,Jandaia do Sul,california,97942,23.021478,18.0574637,airport
+loc493,5,Sachs,Mudian,california,97943,5.2351338,85.5277488,airport
+loc494,7561,Manley,Keti Bandar,california,97944,-5.0402647,112.3367573,mall
+loc495,639,Bunker Hill,Vila Vi√ßosa,california,97945,-29.9026691,130.6838866,mall
+loc496,30743,Crescent Oaks,Villejuif,california,97946,51.490189,-95.514174,mall
+loc497,791,Eggendart,Kanashevo,california,97947,-7.3737257,28.5158257,mall
+loc498,95,Susan,Aghavnadzor,california,97948,55.780902,-58.9495941,mall
+loc499,1,Arkansas,San Andros,california,97949,42.0469772,-0.5820236,mall
+loc500,66,Declaration,Guane,california,97950,42.12215,-77.3895014,mall
+loc501,8326,Sycamore,Xinjiebu,california,97951,-17.3410721,127.016667,mall
+loc502,10277,North,Niort,california,97952,14.6347254,118.356414,mall
+loc503,4241,Vermont,Ciodeng,california,97953,14.5910759,-80.3936994,mall
+loc504,8433,Thierer,San Antonio,california,97954,44.3037425,40.618282,mall
+loc505,8545,Hansons,Renyi,california,97955,31.228026,-73.960233,bus station 
+loc506,9189,Birchwood,Pedro Carbo,california,97956,-31.6577222,4.0710348,bus station 
+loc507,27,Banding,Jarabacoa,california,97957,42.35,20.3520979,bus station 
+loc508,36280,Marcy,Gombangan,california,97958,4.087552,7.1090932,bus station 
+loc509,55681,Prairieview,Bludov,california,97959,16.9846184,114.058404,hospital
+loc510,55488,Goodland,T≈çkamachi,california,97960,59.7649518,18.5748049,hospital
+loc511,15,Debs,Acheng,california,97961,47.74603,120.3089541,hospital
+loc512,7,Blue Bill Park,Malaryta,california,97962,32.868426,47.675856,hospital
+loc513,646,Crest Line,Paihia,california,97963,32.147679,44.47337,hospital
+loc514,90784,Tomscot,Chengdong,california,97964,45.333333,114.491954,hospital
+loc515,0,Eliot,√âvry,california,97965,48.8610504,29.3753657,hospital
+loc516,730,Morrow,Alvito de S√£o Pedro,california,97966,39.847805,129.6850661,hospital
+loc517,58737,Northfield,Banjar Sebual,california,97967,-7.2787651,121.389262,office
+loc518,4287,Esch,V√©lo,california,97968,-9.5295,35.065976,chruch
+loc519,44126,Hagan,Ramat HaSharon,california,97969,30.664436,35.8089055,chruch
+loc520,6275,Nobel,Baro Kunda,california,97970,55.86328,30.201622,chruch
+loc521,48081,Golf,Madruga,california,97971,16.3413382,120.211816,chruch
+loc522,20224,Larry,Cr√©teil,california,97972,45.506995,-72.0942187,office
+loc523,0,Sutherland,Koktal,california,97973,37.1773363,113.4073,school
+loc524,80,Golf,Taldan,california,97974,32.724185,106.230908,school
+loc525,368,Lawn,Kidodi,california,97975,22.8429803,23.3819761,school
+loc526,62396,Elmside,Tomorlog,california,97976,38.7336567,-70.9853968,school
+loc527,6010,Mifflin,Arbois,california,97977,43.3911349,14.5182806,school
+loc528,96,Dunning,Berlin,california,97978,-8.2399,36.08677,school
+loc529,8853,Briar Crest,Iza,california,97979,35.8242238,126.2332502,school
+loc530,902,Hansons,Stari Grad,california,97980,41.2867247,114.3182712,school
+loc531,4,Duke,Naw√°,california,97981,-34.7725956,106.191761,school
+loc532,6,Maple,Ube,california,97982,26.6674,14.1774467,school
+loc533,814,Anderson,Borda da Mata,california,97983,-8.4769874,-99.6487518,school
+loc534,7957,Sloan,Th√†nh Ph·ªë Nam ƒê·ªãnh,california,97984,-6.5415,99.2267999,school
+loc535,69658,Sachs,Olovyannaya,california,97985,27.754532,109.323479,school
+loc536,58385,Ronald Regan,Frash√´r,california,97986,46.748522,2.3825213,school
+loc537,2639,High Crossing,Sucre,california,97987,32.943109,103.3125299,school
+loc538,19,Bartillon,Irbid,california,97988,39.7383486,120.9777157,school
+loc539,59,Elka,Melioratyvne,california,97989,27.8469,-80.3895886,school
+loc540,137,Shasta,Beaumont,california,97990,-24.0416026,30.7319718,school
+loc541,65,Rieder,Seulimeum,california,97991,37.401244,-56.9042201,school
+loc542,2,Welch,Santa Marta,california,97992,32.575484,-7.3462545,school
+loc543,84045,Erie,Sandakan,california,97993,35.6110549,135.7636857,school
+loc544,8,Eastwood,Mumias,california,97994,24.154316,121.869339,school
+loc545,50,Gerald,Jana√∫ba,california,97995,34.8660113,21.5480129,school
+loc546,20,Graceland,General Villegas,california,97996,-8.3661,140.3509794,school
+loc547,8347,Spenser,Albion,california,97997,39.927952,127.6124552,school
+loc548,89551,Memorial,Sukadana,california,97998,45.5288007,29.0213682,school
+loc549,99,Grasskamp,Lianghu,california,97999,8.9517713,115.852187,school
+loc550,86,Dawn,Bijeli,california,98000,39.9474202,123.2814017,school
+loc551,51,Green Ridge,Kostyantynivka,california,98001,8.1296031,-7.9858152,school
+loc552,58785,Westend,Alenquer,california,98002,55.7754263,106.40417,school
+loc553,32538,Lien,Nashville,california,98003,60.4627094,107.172085,school
+loc554,0,Orin,Cagwait,california,98004,15.9005049,29.0932259,school
+loc555,3833,Bartelt,Kipit,california,98005,20.7303804,108.960747,school
+loc556,9,Bowman,La Asunci√≥n,california,98006,13.8694082,-75.9142437,school
+loc557,4170,Harper,Cibeureum,california,98007,-34.4418692,111.302191,school
+loc558,72,Saint Paul,Al Ma·∏©wƒ´t,california,98008,28.5776106,-80.3,office
+loc559,36565,Moose,Degan,california,98009,45.2646668,103.8448134,office
+loc560,745,Commercial,Talshand,california,98010,43.817071,134.0620421,office
+loc561,52,Grasskamp,Anjozorobe,california,98011,36.068172,0.7236073,office
+loc562,8,Kennedy,Ust-Kamenogorsk,california,98012,41.5817519,-71.0924706,office
+loc563,7,Montana,Tabanan,california,98013,-7.5145399,113.625328,office
+loc564,23605,Twin Pines,La Falda,california,98014,36.689919,18.546063,office
+loc565,68676,Moulton,Zyukayka,california,98015,50.3382214,121.0737995,office
+loc566,329,Bultman,Trompsburg,california,98016,0.6782274,27.7949868,hospital
+loc567,2,Judy,Lumbayan,california,98017,31.5126804,-78.416925,hospital
+loc568,3,Holmberg,Fougamou,california,98018,49.8687831,-77.7083,hospital
+loc569,7955,Dovetail,Hamburg,california,98019,53.3177535,-103.9832684,hospital
+loc570,3,Waxwing,Cergy-Pontoise,california,98020,22.517585,121.012518,hospital
+loc571,30,Homewood,Rokytne,california,98021,-23.9561304,-68.8413237,hospital
+loc572,20,Starling,Slantsy,california,98022,32.9005808,113.854556,hospital
+loc573,5408,Springs,Huatanshan,california,98023,35.10456,5.8978018,hospital
+loc574,92,Arkansas,Slobodskoy,california,98024,26.741856,19.65083,bus station 
+loc575,437,Alpine,Cajol√°,california,98025,18.4678653,-77.1657716,bus station 
+loc576,69,Westport,Amos,california,98026,45.2557594,-81.026991,bus station 
+loc577,9114,7th,Baligr√≥d,california,98027,42.16964,126.4371385,bus station 
+loc578,912,Chive,Laxiong,california,98028,46.4244411,108.28245,office
+loc579,43143,Main,Xiaoshan,california,98029,50.2689038,27.5615244,office
+loc580,65,Jackson,Le Kremlin-Bic√™tre,california,98030,36.548365,39.9170354,office
+loc581,28931,Petterle,Notranje Gorice,california,98031,40.3808163,37.7844618,mosque
+loc582,38128,Debs,Chengguan,california,98032,30.274084,-68.2320043,mosque
+loc583,21897,Corben,Aleksandrovka,california,98033,38.05106,123.769368,mosque
+loc584,217,Hintze,Garawati,california,98034,13.0930867,73.6119469,mosque
+loc585,43,Mariners Cove,Perreng,california,98035,-26.69475,116.603883,office
+loc586,9544,Sommers,Dagou,california,98036,-6.9506,-96.3598367,office
+loc587,295,Mariners Cove,Belfast,california,98037,11.5471456,-72.4909026,chruch
+loc588,14,Twin Pines,Xinzheng,california,98038,22.342771,19.347341,chruch
+loc589,5065,Monica,Recife,california,98039,45.8442734,8.5226706,chruch
+loc590,65,Basil,Bilajari,california,98040,15.08333,136.1916906,chruch
+loc591,14,Melvin,Apartad√≥,california,98041,35.84917,22.7869993,mosque
+loc592,95145,Raven,Paraty,california,98042,16.9296881,4.6195236,mosque
+loc593,42247,Norway Maple,Qiting,california,98043,39.2591889,114.289528,mosque
+loc594,92,Novick,Lawrenceville,california,98044,40.6898292,-1.2073261,college
+loc595,35,Canary,Duwakbuter,california,98045,29.474413,-98.49,college
+loc596,22185,Prentice,Johor Bahru,california,98046,25.881342,106.6527099,college
+loc597,6894,Anderson,Ducheng,california,98047,13.6343413,-86.59,college
+loc598,38,Daystar,Salamanca,california,98048,19.6402143,98.209206,college
+loc599,2694,Florence,Orikum,california,98049,40.6502768,111.6717568,college
+loc600,2657,Meadow Valley,Orda,california,98050,7.1302807,49.7072207,college
+loc601,3,Talisman,Canggetelo,california,98051,6.1097207,16.5996595,college
+loc602,184,Arkansas,Roches Noire,california,98052,27.356747,32.2880726,college
+loc603,72927,Commercial,Roun Satu,california,98053,37.78,27.2373159,college
+loc604,1941,Brentwood,Mtwango,california,98054,-7.1785873,-72.1712309,college
+loc605,1543,Thompson,Vin‚Äôkivtsi,california,98055,14.5640576,81.0478592,college
+loc606,15,Golf,Lw√≥wek ≈ölƒÖski,california,98056,30.292001,18.6364096,college
+loc607,311,Bunker Hill,Bagn√®res-de-Bigorre,california,98057,51.8677116,13.4331372,college
+loc608,0,Prairie Rose,Solna,california,98058,41.1769352,125.408732,college
+loc609,5,Nancy,Obo,california,98059,1.3118981,136.9632426,chruch
+loc610,95,Dennis,Tanahedang,california,98060,43.3911349,35.0980514,chruch
+loc611,68797,Clarendon,Budapest,california,98061,15.1315727,107.9917034,chruch
+loc612,407,Gulseth,K√∂yli√∂,california,98062,-3.4763823,7.1608614,chruch
+loc613,80102,Swallow,Shijiazhuang,california,98063,46.4566661,-80.8460822,airport
+loc614,5723,Gulseth,Loma Alta,california,98064,39.533815,106.6403668,airport
+loc615,24,Jenifer,Tevriz,california,98065,31.295228,12.7039013,hospital
+loc616,1,Loftsgordon,N√©a S√°nta,california,98066,-7.2760371,37.6001786,hospital
+loc617,61,Forest Run,Kiryandongo,california,98067,-22.548794,1.9979411,hospital
+loc618,33,Carioca,Progreso,california,98068,-27.3302999,12.1171659,hospital
+loc619,17150,Schlimgen,Cartagena,california,98069,-6.1912334,123.726201,hospital
+loc620,3,Pine View,Daruoyan,california,98070,42.707822,-90.2291565,hospital
+loc621,1816,Clove,Rahayu,california,98071,23.736457,-49.6879727,hospital
+loc622,3,Shopko,Che≈Çm,california,98072,15.051008,12.0103839,hospital
+loc623,0,Rusk,Bata Tengah,california,98073,-6.8973394,107.347009,bus station 
+loc624,9,Cardinal,Piranshahr,california,98074,-11.7602273,-0.8816138,bus station 
+loc625,7,Memorial,Karatsu,california,98075,45.616422,139.5718014,bus station 
+loc626,342,Sauthoff,Liangdang Chengguanzhen,california,98076,14.5624842,63.7602594,bus station 
+loc627,968,Fair Oaks,Sumalig,california,98077,15.5835978,37.5584016,airport
+loc628,3,Debs,Belfort,california,98078,-3.4944313,14.6917325,mosque
+loc629,760,Lindbergh,Bela Vista do Para√≠so,california,98079,-20.1514708,19.8423848,mosque
+loc630,8,Thompson,Eschweiler,california,98080,37.8336281,101.014425,mosque
+loc631,48,Lakewood,Marku≈°ica,california,98081,31.719806,24.16667,mosque
+loc632,90441,Mccormick,Ondo,california,98082,-6.0924606,-72.017927,airport
+loc633,8,Pennsylvania,Helsingborg,california,98083,-26.9378218,114.849821,airport
+loc634,26247,Lunder,√ödlice,california,98084,46.0972432,127.5032,chruch
+loc635,98,Prentice,Trondheim,california,98085,45.4949897,5.7318798,chruch
+loc636,9,Hanover,Francisco Villa,california,98086,-23.8107528,124.7215982,chruch
+loc637,9,Maywood,Mapinrea,california,98087,24.923028,-78.1792434,chruch
+loc638,58,Dennis,Donggang,california,98088,9.2573324,7.9266015,mall
+loc639,2,Londonderry,Argayash,california,98089,9.7437515,107.6777669,mall
+loc640,25178,Thompson,Huimin,california,98090,7.216175,126.637515,mall
+loc641,69,Butterfield,Lutou,california,98091,28.286067,-62.6451102,mall
+loc642,90,Summer Ridge,Washington,california,98092,51.5024848,110.2579036,hospital
+loc643,69,Steensland,Luzino,california,98093,46.9573015,121.0315758,hospital
+loc644,81893,Rusk,Santo Domingo,california,98094,14.5618599,30.1242853,hospital
+loc645,72813,Bowman,Armenta,california,98095,32.2009532,140.50321,hospital
+loc646,720,Bunker Hill,Amahusu,california,98096,35.412337,140.557325,hospital
+loc647,7370,Logan,Xinghua,california,98097,7.8014452,65.4822686,hospital
+loc648,8,Riverside,Kulary,california,98098,-8.3081,121.9359,hospital
+loc649,37,Manitowish,Emiliano Zapata,california,98099,52.5693104,24.3530817,hospital
+loc650,666,Everett,Timr√•,california,98100,38.1164434,113.4891,bus station 
+loc651,8,Fremont,Panaytayon,california,98101,52.71892,107.5505152,bus station 
+loc652,56,Upham,Pashkovskiy,california,98102,-7.7474,27.9407145,bus station 
+loc653,6,Wayridge,Xazgat,california,98103,-3.9389,119.8149736,bus station 
+loc654,4177,Bartillon,Karlskrona,california,98104,4.7161955,-71.0601767,mall
+loc655,42,Heath,Lyakhovtsy,california,98105,38.6530409,-74.7163829,mall
+loc656,97,Laurel,Guariba,california,98106,29.644609,113.173487,mall
+loc657,98035,Tony,Brovary,california,98107,42.4371884,-71.7999999,mall
+loc658,8954,Basil,Krajan Menggare,california,98108,-9.9246703,-100.9086492,office
+loc659,0,Becker,Kafir Yasif,california,98109,14.9165428,3.6319131,mosque
+loc660,8024,Northfield,Siemiech√≥w,california,98110,35.4175712,116.6335548,mosque
+loc661,60,Havey,Glatik,california,98111,39.401147,123.5403713,mosque
+loc662,408,David,Shimonoseki,california,98112,49.7216794,119.459161,mosque
+loc663,5,Mallory,Sakharovo,california,98113,-8.6847,-74.8659421,office
+loc664,2828,Pawling,≈ÅƒÖck,california,98114,26.5324775,-85.9330098,office
+loc665,1737,Memorial,Siikajoki,california,98115,49.7917105,103.62,office
+loc666,5,Del Sol,Kƒôpie ≈ªalesza≈Ñskie,california,98116,-13.683333,121.0022623,office
+loc667,122,Pennsylvania,Tuzha,california,98117,35.6907846,36.25633,office
+loc668,32,Miller,Cayara,california,98118,36.9392627,120.3186429,bus station 
+loc669,491,Florence,Alabug,california,98119,-22.5077597,119.009039,bus station 
+loc670,1392,Hooker,Rennes,california,98120,4.8980694,114.504677,bus station 
+loc671,25,Bluestem,Chengmagang,california,98121,3.033069,37.6032435,bus station 
+loc672,233,Anniversary,Pandan,california,98122,56.387721,-9.425154,office
+loc673,749,Ridgeway,Dingdian,california,98123,19.5797297,-57.3298733,office
+loc674,32,Montana,Itzig,california,98124,-21.5418158,-54.7412036,office
+loc675,19,Hermina,Pangantocan,california,98125,-6.7152549,108.3207992,office
+loc676,40,Manufacturers,Hebeitun,california,98126,9.0866702,9.9171742,mosque
+loc677,6412,Everett,Qiling,california,98127,54.305019,20.2153721,mosque
+loc678,7492,Coleman,Fasi,california,98128,45.3481651,106.2042252,mosque
+loc679,43269,Garrison,Shekou,california,98129,-31.43337,113.6383187,mosque
+loc680,906,Anhalt,Gr√§nna,california,98130,22.80524,139.7249685,office
+loc681,469,Bashford,Tesliƒá,california,98131,55.6715981,13.2588145,office
+loc682,2,Meadow Ridge,Cibingbin,california,98132,19.7206,91.5015009,bus station 
+loc683,3783,Haas,Shuanghe,california,98133,43.411002,-8.5011003,bus station 
+loc684,482,Old Shore,Azua,california,98134,-7.1846561,-42.8163587,bus station 
+loc685,33995,Birchwood,Amashca,california,98135,43.785358,16.955476,bus station 
+loc686,807,Superior,La Talaudi√®re,california,98136,28.653113,105.877112,airport
+loc687,228,Old Gate,Xiaojiezi,california,98137,42.1328742,118.4500421,hospital
+loc688,8205,Grover,Langgen,california,98138,58.55895,-50.2475804,hospital
+loc689,108,Lunder,Gondifelos,california,98139,36.6759691,76.785812,hospital
+loc690,84,Jana,Kobarid,california,98140,41.7936783,-93.3791405,hospital
+loc691,540,Ludington,El √Ångel,california,98141,52.574095,-72.0047731,hospital
+loc692,27065,Rutledge,UruzgƒÅn,california,98142,8.1243943,32.5077211,hospital
+loc693,5,Eliot,Ciputih,california,98143,35.2495378,128.3222456,hospital
+loc694,48,Buell,Tanjungjaya,california,98144,43.0369422,24.5762096,hospital
+loc695,47692,Lien,Ballybofey,california,98145,50.041381,-98.42,office
+loc696,9671,Dayton,Kyegegwa,california,98146,-23.2585481,-48.2802925,office
+loc697,45,Bunker Hill,Jiangjing,california,98147,50.49976,116.370159,airport
+loc698,33,Coolidge,Changxing,california,98148,45.8235836,8.5144352,airport
+loc699,35,Maple Wood,Gedongmulyo,california,98149,44.0179842,17.5205087,mosque
+loc700,764,Heath,Bayan Huxu,california,98150,22.1466556,42.5779182,mosque
+loc701,227,Oxford,Banjeru,california,98151,9.9137002,140.0106915,mosque
+loc702,5,Summit,Malangabang,california,98152,-20.0722773,-85.7,mosque
+loc703,8115,Crest Line,Al WardƒÅnƒ´n,california,98153,5.1227373,-8.1915991,beach
+loc704,0,Holmberg,Bailadores,california,98154,-11.8920309,108.16,beach
+loc705,337,Dwight,Guanyao,california,98155,21.8727408,-93.1315648,beach
+loc706,798,Shopko,N‚Äôdalatando,california,98156,22.720974,-75.534477,beach
+loc707,9,Red Cloud,Nabari,california,98157,49.4576263,51.0782323,bus station 
+loc708,13688,Veith,Lazurne,california,98158,49.9386129,116.418465,bus station 
+loc709,5977,Fulton,Tongyang,california,98159,31.069419,108.28306,bus station 
+loc710,1862,Hanson,Mizur,california,98160,7.916433,107.531655,bus station 
+loc711,9,Hovde,SƒÅjir,california,98161,8.2511483,34.2824429,beach
+loc712,16284,Hudson,Akonolinga,california,98162,-22.4008873,121.593799,beach
+loc713,13,Schurz,Velikiye Luki,california,98163,-11.9417972,129.345,beach
+loc714,41696,Bunker Hill,Vila Ribeiro,california,98164,39.765701,122.5019655,beach
+loc715,6230,Village,Ottawa,california,98165,11.66503,36.3642919,beach
+loc716,50804,Corry,Vi√±a del Mar,california,98166,-17.857298,24.3450737,beach
+loc717,52,Westridge,Canaman,california,98167,-4.3920698,78.6449,airport
+loc718,6884,Dayton,Aguas del Padre,california,98168,52.7456843,127.6958882,airport
+loc719,89,Loeprich,Intendente Alvear,california,98169,-8.0450166,87.771182,airport
+loc720,656,Spohn,Mu·∏©ammad ƒÄghah WuluswƒÅlƒ´,california,98170,-6.9927364,33.70211,airport
+loc721,6717,Tony,El Congo,california,98171,38.58,69.16705,airport
+loc722,7,Jana,Link√∂ping,california,98172,45.126841,-8.3027037,airport
+loc723,24541,Waywood,Kebonsari,california,98173,-7.3708505,106.5297101,airport
+loc724,0,Division,Gaojiabu,california,98174,28.322781,114.2301337,airport
+loc725,6,Norway Maple,Guoduwan,california,98175,16.9509413,-75.75012,airport
+loc726,124,Iowa,Somi√©,california,98176,-10.9265815,36.9299219,airport
+loc727,319,Karstens,Wu‚Äôerbu Baolige,california,98177,34.6682722,19.7487502,airport
+loc728,80,Fairfield,Jinja,california,98178,-8.1844859,-76.331889,airport
+loc729,98,Heath,Vr√Ωses,california,98179,49.8557953,45.0304001,airport
+loc730,387,Derek,Sollefte√•,california,98180,37.1321706,121.221138,airport
+loc731,5,Clarendon,Parkent,california,98181,-26.433666,102.2776838,airport
+loc732,744,Sunbrook,Yasothon,california,98182,37.93,125.3027214,airport
+loc733,134,Bartillon,Ogaminan,california,98183,67.2929841,-44.7711099,airport
+loc734,3,Onsgard,Mount Pearl,california,98184,-7.6145292,108.366667,airport
+loc735,24,Golden Leaf,Nangahale,california,98185,-6.1718076,16.370548,airport
+loc736,32,Gina,RƒÅbigh,california,98186,14.93305,97.9157099,airport
+loc737,37,Kim,Ndend√©,california,98187,-6.2424962,59.9164,airport
+loc738,2,Pond,Yupiltepeque,california,98188,35.4937018,10.4024274,airport
+loc739,701,Cardinal,Vale de Rolas,california,98189,55.195577,108.8551484,airport
+loc740,6,Northland,Sevlievo,california,98190,37.464539,19.494331,airport
+loc741,685,Bartillon,Tudela,california,98191,-6.8561144,-52.6600232,airport
+loc742,10,Grim,Shimen,california,98192,8.1333333,111.9390257,airport
+loc743,9,Schiller,Chucatamani,california,98193,12.5200531,17.8864717,airport
+loc744,32479,Helena,Wonotirto,california,98194,46.2107921,110.1434668,beach
+loc745,761,Brentwood,Toledo,california,98195,-45.4035437,97.9756343,beach
+loc746,55,Heath,Marseille,california,98196,23.199183,119.647769,beach
+loc747,8563,Center,Longmen,california,98197,-8.2276154,136.0369403,hospital
+loc748,5,Express,Huaniao,california,98198,52.5094874,124.25,hospital
+loc749,203,Merrick,Bolou,california,98199,23.107793,3.2188961,hospital
+loc750,59097,Messerschmidt,Sabadell,california,98200,48.69682,24.5719605,hospital
+loc751,6,Sunnyside,Novo,california,98201,40.824367,31.7280955,hospital
+loc752,65,Sutherland,Kulevcha,california,98202,52.1379258,17.9492451,hospital
+loc753,20,Sunfield,Wantan,california,98203,28.880567,14.8112191,hospital
+loc754,6,Eggendart,Salavat,california,98204,6.0375069,46.0058803,hospital
+loc755,1850,Oriole,Anchau,california,98205,28.153607,109.599556,beach
+loc756,17,Waywood,Paragominas,california,98206,-3.7331933,104.0134362,beach
+loc757,433,Vermont,Przystaj≈Ñ,california,98207,-8.0941273,120.402603,mosque
+loc758,9,Arkansas,Avarua,california,98208,14.3144265,2.8002946,mosque
+loc759,8030,Autumn Leaf,Qu≈ürah,california,98209,32.9886195,117.407783,mosque
+loc760,8,Westerfield,Xichang,california,98210,-7.3032329,18.9285154,mosque
+loc761,1762,Clyde Gallagher,Saint Aubin,california,98211,7.5617699,-79.5217021,beach
+loc762,3,Straubel,Quebradas,california,98212,-6.9140979,18.3673216,bus station 
+loc763,8,Oakridge,Disina,california,98213,14.5560877,15.9259321,bus station 
+loc764,969,Butterfield,Urbiztondo,california,98214,15.6848385,118.9353968,bus station 
+loc765,33,Quincy,Ilhabela,california,98215,-5.1734862,120.066439,bus station 
+loc766,96434,Meadow Valley,Edosaki,california,98216,-9.9097428,124.105576,bus station 
+loc767,5,Toban,Minle,california,98217,26.6732151,110.179953,bus station 
+loc768,9,Scott,Pore,california,98218,-17.4474874,-40.1657466,bus station 
+loc769,3089,Harper,Niort,california,98219,-36.8189073,22.6516099,bus station 
+loc770,19576,Forest Dale,Nizhniye Achaluki,california,98220,-34.6337798,-8.9447144,bus station 
+loc771,68209,Havey,San Roque,california,98221,30.582271,121.124178,bus station 
+loc772,74,Sutherland,Giade,california,98222,54.9377761,39.6982485,bus station 
+loc773,9,Macpherson,Oratorio,california,98223,40.554374,15.8685645,bus station 
+loc774,5,Transport,Vlych√°da,california,98224,-13.8556,20.9439427,bus station 
+loc775,5,Raven,Itatinga,california,98225,-6.898384,101.507294,bus station 
+loc776,43,Glendale,Shangganshan,california,98226,-0.1423977,109.2207098,bus station 
+loc777,32860,Comanche,Samdrup Jongkhar,california,98227,37.697794,-1.90546,bus station 
+loc778,6116,Ryan,Tamandar√©,california,98228,19.1753648,33.366867,state building
+loc779,6,Hooker,Puncaktugu,california,98229,-6.8726113,35.6599267,state building
+loc780,19,Lerdahl,Kaiyuan,california,98230,29.9305879,115.3219823,state building
+loc781,81390,Aberg,Sicamous,california,98231,37.3571829,6.1826331,state building
+loc782,50,Warbler,Uwelini,california,98232,58.8781209,-0.1365486,hospital
+loc783,684,Mandrake,Nyk√∂ping,california,98233,-33.8882671,15.6237211,hospital
+loc784,50,Lyons,Rendeng,california,98234,-40.6607937,-74.8068454,hospital
+loc785,432,Fallview,Kabala,california,98235,24.625561,112.132488,hospital
+loc786,68,Bunker Hill,Khartsyz‚Äôk,california,98236,18.5054233,35.288375,hospital
+loc787,22534,Pleasure,Thulamahashi,california,98237,55.1936526,18.1757954,bus station 
+loc788,48,Monterey,Kol‚Äôchugino,california,98238,54.0026343,-1.6294466,bus station 
+loc789,3,Texas,Heka,california,98239,-6.7587465,40.77214,hospital
+loc790,2,Miller,Gniechowice,california,98240,14.6826072,112.206429,hospital
+loc791,2,Anhalt,Redon,california,98241,40.0869028,122.1916328,hospital
+loc792,5,Shasta,Huichang,california,98242,22.9647344,4.9137748,hospital
+loc793,89,Donald,Hualian,california,98243,41.7047388,-87.8991514,hospital
+loc794,8754,Springview,Sungaimaja,california,98244,54.5156,-102.9866567,hospital
+loc795,74352,Moland,Pro√°stion,california,98245,30.912302,120.170382,hospital
+loc796,79929,Sauthoff,Nihaona,california,98246,30.453667,13.1402383,hospital
+loc797,8,Grayhawk,Battambang,california,98247,33.722478,31.4465327,state building
+loc798,35,Welch,Huangjiazhai,california,98248,32.92312,1.5693759,state building
+loc799,88227,Crowley,Taizi,california,98249,8.1200456,51.1985113,state building
+loc800,1966,Eastwood,Os√≥rio,california,98250,40.199887,123.583231,state building
+loc801,552,Vahlen,Nizhnyaya Salda,california,98251,49.980217,121.4233322,state building
+loc802,93,Rieder,Ashgabat,california,98252,40.215006,40.8393808,state building
+loc803,19,Burning Wood,C√°ceres,california,98253,41.76,111.11122,mosque
+loc804,9034,Crownhardt,ƒåesk√Ω Tƒõ≈°√≠n,california,98254,41.0233069,123.279,mosque
+loc805,5,Bartelt,Pampas,california,98255,36.826981,-72.4494848,mosque
+loc806,343,Prairie Rose,Levallois-Perret,california,98256,3.095417,-8.4673336,mosque
+loc807,909,Mallard,Oke Mesi,california,98257,24.168957,47.7403034,airport
+loc808,3489,Mariners Cove,Mamu≈°a,california,98258,-9.7464338,-86.1306519,airport
+loc809,996,Kedzie,B≈´laevo,california,98259,-7.8431154,-55.2038278,airport
+loc810,4,Arkansas,Prosyana,california,98260,27.676355,121.4804504,bus station 
+loc811,4341,Kingsford,Lilla Edet,california,98261,60.4125717,109.768451,bus station 
+loc812,40112,Mayer,Barra de S√£o Francisco,california,98262,-6.4698758,126.422806,bus station 
+loc813,92083,East,Rawaglagah,california,98263,-8.12938,127.75061,bus station 
+loc814,8979,Marquette,Huangkeng,california,98264,55.9522407,-77.583333,university
+loc815,1,Acker,Paris 10,california,98265,-7.1044542,37.1811404,university
+loc816,4,Manley,Xincun,california,98266,-6.6710208,30.820151,airport
+loc817,832,Canary,√ñrebro,california,98267,53.2580126,13.8277397,airport
+loc818,757,Weeping Birch,Chenglin,california,98268,42.6629138,69.3717635,airport
+loc819,625,Gulseth,Sari,california,98269,8.3345712,-40.2768213,airport
+loc820,0,Victoria,DƒÅngƒÅm,california,98270,23.701262,15.6592291,airport
+loc821,433,Golden Leaf,Alchevs‚Äôk,california,98271,31.352859,-9.1057581,airport
+loc822,4,John Wall,Athabasca,california,98272,22.746566,18.2940431,airport
+loc823,98,Fairfield,Shch≈´chƒ´nsk,california,98273,-6.6858425,112.175245,airport
+loc824,67,Golf View,Stockholm,california,98274,29.72277,114.3103718,airport
+loc825,81,Annamark,R√Ωma≈ôov,california,98275,13.2063104,112.4619282,airport
+loc826,49457,Morning,Lalig,california,98276,25.704872,136.7959808,airport
+loc827,3,Clove,Talangnan,california,98277,19.955811,35.070954,airport
+loc828,86000,Hanson,Balta,california,98278,-6.7726186,109.1434108,airport
+loc829,48692,Tennyson,Pet≈ôvald,california,98279,19.8829688,-8.4673336,airport
+loc830,3185,Riverside,Bulls,california,98280,52.2828507,-91.7660525,airport
+loc831,0,Ronald Regan,Th·ªã Tr·∫•n C·∫©m Th·ªßy,california,98281,51.5742615,83.67298,airport
+loc832,74463,Sloan,Wasagu,california,98282,-21.3601809,-81.63,airport
+loc833,158,Fordem,Broch√≥w,california,98283,53.3004898,43.2968632,airport
+loc834,57643,Prairie Rose,Lƒ´kak,california,98284,-8.1934,116.628627,airport
+loc835,26,Delladonna,Correia Pinto,california,98285,-6.633688,73.8854331,airport
+loc836,2077,Fairfield,Pedra Branca,california,98286,-34.604369,108.1293228,airport
+loc837,287,Annamark,Angeghakot‚Äô,california,98287,58.3227586,-71.36577,airport
+loc838,74463,6th,Funan Chengguanzhen,california,98288,47.278918,2.1597595,airport
+loc839,55776,Barby,Iradan,california,98289,22.556499,119.2029497,airport
+loc840,2,Havey,Saint-Quentin-Fallavier,california,98290,16.5235265,120.3093044,airport
+loc841,9,Morningstar,Lenningen,california,98291,-6.4712737,25.2182047,airport
+loc842,522,Waywood,FaisalƒÅbƒÅd,california,98292,34.7188616,-72.5558986,airport
+loc843,4422,Novick,Fale old settlement,california,98293,26.106815,90.5782439,university
+loc844,3737,Becker,Dome,california,98294,55.6782044,-54.9501708,university
+loc845,93,Mcguire,Wiskitki,california,98295,-6.212159,-71.9674626,university
+loc846,999,Armistice,Baizhifang,california,98296,-7.7789062,-73.5358541,university
+loc847,830,American Ash,Yangchao,california,98297,8.0275138,-80.7477708,university
+loc848,7,Old Shore,Kato√∫na,california,98298,8.6,-66.8081979,university
+loc849,43304,Fieldstone,Arendal,california,98299,45.3940354,68.5775,university
+loc850,9322,Fisk,Kungur,california,98300,24.44218,107.752611,hospital
+loc851,67,Dexter,Mont-Saint-Hilaire,california,98301,25.692699,112.5364292,hospital
+loc852,64841,3rd,Phumƒ≠ V√©al Sr√™,california,98302,50.1745286,47.538392,hospital
+loc853,68,Hovde,Ciela Lebak,california,98303,-33.4557162,115.1296249,hospital
+loc854,6,Del Sol,St√≠rion,california,98304,36.9207067,115.297893,hospital
+loc855,95603,Crownhardt,Pagnag,california,98305,-8.7368981,70.9293858,hospital
+loc856,34,Corry,Sarzedo,california,98306,22.251924,-121.47,hospital
+loc857,2,Butternut,Suzano,california,98307,49.8674755,-38.7368187,hospital
+loc858,776,Carpenter,Susoh,california,98308,49.070618,21.4591344,bus station 
+loc859,2,Mandrake,Andong,california,98309,40.5740471,37.489685,bus station 
+loc860,38493,Tomscot,Monte do Outeiro,california,98310,35.4252373,105.993491,bus station 
+loc861,367,Parkside,Minusinsk,california,98311,36.628305,102.7834876,bus station 
+loc862,1,Lotheville,Darong,california,98312,9.6233133,121.0168115,airport
+loc863,66497,John Wall,Owen Sound,california,98313,5.312024,118.542982,mosque
+loc864,19485,Warrior,P√©tionville,california,98314,42.8436672,13.6263627,mosque
+loc865,28468,Golf,Pital,california,98315,-6.1487501,-120.8204617,mosque
+loc866,6655,Lien,Ginatilan,california,98316,-10.0533,49.3805473,mosque
+loc867,7,Truax,Achiras,california,98317,49.8807,106.8176984,mall
+loc868,7,Ridgeview,Tulihe,california,98318,55.9240189,117.416058,mall
+loc869,342,Basil,Asenovgrad,california,98319,52.0592063,14.424426,airport
+loc870,77,Monterey,Rungis,california,98320,-9.9367,-73.8394482,airport
+loc871,948,Carey,P√©tange,california,98321,49.689425,-6.3931513,airport
+loc872,2872,Warbler,Vichadero,california,98322,58.2024514,-67.4324153,airport
+loc873,155,Starling,Duishan,california,98323,45.2599884,124.518169,airport
+loc874,52,Arizona,Guia,california,98324,14.2233899,122.9421882,airport
+loc875,5757,Clarendon,Anyang-si,california,98325,-3.1456879,19.9506717,airport
+loc876,388,5th,Wang Noi,california,98326,48.804517,-96.0996978,airport
+loc877,57051,Pawling,Ermelo,california,98327,48.6469926,116.475481,airport
+loc878,683,Lakeland,Geputan,california,98328,34.1470534,112.992497,airport
+loc879,4,Westend,Ngondokandawu,california,98329,56.2039328,9.757347,airport
+loc880,98,Rockefeller,Liloan,california,98330,26.709056,23.9915523,airport
+loc881,46446,Surrey,Mamonovo,california,98331,27.481873,28.7402073,airport
+loc882,36501,Express,Rabaul,california,98332,30.89441,-71.7608251,mall
+loc883,198,Loeprich,Werangere,california,98333,40.3319506,-71.6554692,mall
+loc884,4918,Hoepker,Rassvet,california,98334,27.69965,117.7098707,bus station 
+loc885,599,Londonderry,Panbang,california,98335,52.354402,14.3592112,bus station 
+loc886,9,Jana,Mandr√°ki,california,98336,2.5214059,-55.7578403,bus station 
+loc887,1073,Eggendart,Kladanj,california,98337,5.952775,15.1060638,bus station 
+loc888,39,Boyd,Shatoja,california,98338,14.18356,130.3267278,university
+loc889,8520,Hayes,Hikkaduwa,california,98339,42.56306,4.9091171,university
+loc890,38969,Oak Valley,Ligang,california,98340,49.7392784,106.639241,university
+loc891,2972,Basil,Karangtalun,california,98341,57.8567021,-36.4968966,university
+loc892,274,Mifflin,Badovinci,california,98342,41.654661,120.6240412,university
+loc893,70782,Heffernan,San Lorenzo,california,98343,46.8381863,-6.0917517,university
+loc894,3,Thompson,Vilarinho da Castanheira,california,98344,52.6958598,111.607282,university
+loc895,7795,Eastwood,Tambakan,california,98345,-13.97797,4.3000211,university
+loc896,15,Coleman,Na Chaluai,california,98346,63.24708,140.7512365,themepark
+loc897,3,Independence,Gobernador Costa,california,98347,44.9893604,22.2731105,themepark
+loc898,8,Starling,Masaran,california,98348,-1.9367459,-6.7716551,hospital
+loc899,769,Green Ridge,BƒÅndarban,california,98349,30.521605,135.2395881,hospital
+loc900,2582,John Wall,Yepocapa,california,98350,1.5594449,120.167774,hospital
+loc901,93923,Dwight,Bellavista,california,98351,12.261245,28.205089,hospital
+loc902,1,Crowley,San Onofre,california,98352,31.928516,2.166848,hospital
+loc903,7685,Shoshone,Qixia,california,98353,7.755354,123.7403542,hospital
+loc904,21,Westend,Pregradnaya,california,98354,57.7106249,72.40078,hospital
+loc905,49,Burning Wood,Damulog,california,98355,34.0293135,117.6485192,hospital
+loc906,72,Riverside,Salcedo,california,98356,38.6849828,16.0186245,hospital
+loc907,766,Sutteridge,Blendis,california,98357,50.242123,102.8773712,hospital
+loc908,41861,Dryden,Banjar Brahmanabukit,california,98358,19.238934,121.7587348,hospital
+loc909,9859,Scoville,Krajan Bakalan,california,98359,-6.864462,106.3346061,hospital
+loc910,5,Dahle,Kosum Phisai,california,98360,29.50393,123.2394,airport
+loc911,52463,Lighthouse Bay,Marseille,california,98361,48.4902808,4.8002333,airport
+loc912,651,Grayhawk,Star√° Ves nad Ond≈ôejnic√≠,california,98362,32.934675,-38.5743503,airport
+loc913,861,Kipling,Macapsing,california,98363,12.610537,-1.7819266,airport
+loc914,17,Dexter,Cigadung,california,98364,50.0919285,37.0330937,airport
+loc915,41,Village,Lac-M√©gantic,california,98365,22.4410669,107.6200524,airport
+loc916,59,Derek,Amboise,california,98366,8.5052219,26.5144402,airport
+loc917,8,Cherokee,Doroslovo,california,98367,55.6665482,84.03153,airport
+loc918,17,Clarendon,Menggala,california,98368,48.7499009,117.087614,airport
+loc919,2803,Comanche,Iowa City,california,98369,45.4744072,12.5974678,airport
+loc920,2,Darwin,Su·∏©ayl ShibƒÅm,california,98370,55.55,15.508083,airport
+loc921,47,Russell,Toulon,california,98371,-8.0941273,121.597823,airport
+loc922,9,Northwestern,Balkh,california,98372,13.8267271,-42.6684924,airport
+loc923,61,Mccormick,Oz√´rsk,california,98373,-16.361238,124.3090475,airport
+loc924,81,Butternut,Gulod,california,98374,-7.4468,173.94869,airport
+loc925,56,Marcy,Iracem√°polis,california,98375,14.5625862,78.3804417,airport
+loc926,7967,5th,Waldbredimus,california,98376,-9.548008,-88.3263603,airport
+loc927,3282,Golf View,Krasnaya Gorka,california,98377,37.3032401,15.9258038,airport
+loc928,7,Maywood,Sugihwaras,california,98378,29.421736,10.6392492,airport
+loc929,7,Scott,Caruaru,california,98379,40.7316367,111.916711,airport
+loc930,8,Sunnyside,√Ågios Andr√©as,california,98380,60.6858505,16.9364145,airport
+loc931,7,Maple,Quxia,california,98381,28.65664,118.579936,airport
+loc932,99748,Moland,Coxim,california,98382,36.4745388,-75.4723411,airport
+loc933,1,1st,El Bols√≥n,california,98383,54.356424,115.830376,airport
+loc934,75,Kinsman,Duntou,california,98384,53.2060963,-9.3203293,airport
+loc935,5,Holy Cross,Emiliano Zapata,california,98385,36.7203407,120.5624474,airport
+loc936,822,Leroy,Tit Mellil,california,98386,59.2933395,-0.8453268,airport
+loc937,1,Cherokee,Yol√∂ten,california,98387,32.3506936,108.3474974,airport
+loc938,627,Spaight,Shawnee Mission,california,98388,22.569804,17.8834957,mall
+loc939,35813,Anderson,El Porvenir,california,98389,30.314378,-69.766667,mall
+loc940,6637,Comanche,Jiuquan,california,98390,51.880525,16.8950982,mall
+loc941,6168,Melvin,Loboniki,california,98391,50.7925769,57.9276184,mall
+loc942,2376,Thompson,Vila Velha,california,98392,10.2933091,-8.4188235,hospital
+loc943,9146,Leroy,Ka≈°persk√© Hory,california,98393,4.0568941,-79.8310829,hospital
+loc944,89,Buena Vista,Phong ƒêi·ªÅn,california,98394,46.1650664,-43.8030567,hospital
+loc945,6846,Amoth,Shushi,california,98395,53.3347847,33.9750018,hospital
+loc946,25109,Loomis,Skelivka,california,98396,54.305019,116.360871,hospital
+loc947,7407,Logan,Betim,california,98397,-8.1189113,120.9986275,hospital
+loc948,467,Del Sol,Shuiyuesi,california,98398,-7.2538172,37.9678652,hospital
+loc949,49005,Oakridge,Muravlenko,california,98399,47.837001,58.677007,hospital
+loc950,2119,8th,Kaz,california,98400,41.0826078,101.0259275,university
+loc951,95,Linden,Ourozinho,california,98401,32.637546,67.199876,university
+loc952,67547,Utah,Kuala Lumpur,california,98402,-9.781098,110.496593,university
+loc953,2,Surrey,Centre de Flacq,california,98403,30.9833081,118.05545,university
+loc954,7,Village Green,San Isidro de Lules,california,98404,47.0166139,-86.5728785,university
+loc955,78869,Monterey,Hamburg,california,98405,-7.5691667,108.50387,university
+loc956,96,Vidon,Baolin,california,98406,21.0471807,124.1745,airport
+loc957,616,Northview,Lampa,california,98407,40.637939,36.08677,mosque
+loc958,863,Delaware,Bibirevo,california,98408,-9.2993916,14.9136917,mosque
+loc959,511,Sloan,Toyoshina,california,98409,15.1074513,121.8525,mosque
+loc960,1361,Mesta,Corrientes,california,98410,37.44056,114.108985,mosque
+loc961,68,La Follette,Longtan,california,98411,45.644891,80.34115,mosque
+loc962,4,Crescent Oaks,Kotakaya Dua,california,98412,62.1738098,-72.994095,mosque
+loc963,91098,Moose,Norrk√∂ping,california,98413,-7.9821907,21.9469705,mosque
+loc964,52449,Mcguire,Williston,california,98414,-7.811056,59.5853599,mosque
+loc965,4,Bashford,Aldeia de Al√©m,california,98415,48.7282419,21.1842054,airport
+loc966,1432,Armistice,Bragan√ßa,california,98416,39.026091,-42.628205,airport
+loc967,23,Forster,Rakitovo,california,98417,29.521296,107.980213,airport
+loc968,954,Main,Thu·∫≠n Nam,california,98418,39.8476302,120.6149195,airport
+loc969,4743,Westridge,S≈´rƒÅn,california,98419,6.2272766,48.6763991,airport
+loc970,97,Birchwood,Bojawa,california,98420,-7.4782808,110.4560006,airport
+loc971,3444,Gerald,Wenfeng Zhen,california,98421,31.2777088,8.3088441,airport
+loc972,69099,Melody,Xilin,california,98422,12.6234721,111.062933,airport
+loc973,97,Rusk,Al ‚ÄòAlamayn,california,98423,25.2048493,33.234,airport
+loc974,22,Messerschmidt,Xiangshan,california,98424,33.298364,18.2051201,airport
+loc975,6,Starling,Suwaru,california,98425,9.1009716,-79.9584397,airport
+loc976,1447,Prairieview,Luoshe,california,98426,29.4315861,-8.4280201,airport
+loc977,88,Cherokee,Kourou,california,98427,13.4677672,111.3694594,airport
+loc978,1047,Carioca,Florentino Ameghino,california,98428,35.4245642,39.9593673,temple
+loc979,3086,Sachtjen,Oof,california,98429,51.1981241,106.4729811,temple
+loc980,5,Manitowish,Lendangara Satu,california,98430,1.3976339,18.1549367,temple
+loc981,9638,Macpherson,Cibeureum,california,98431,26.2174802,30.245977,mosque
+loc982,775,Menomonie,B≈ôeclav,california,98432,43.977331,5.2501629,mosque
+loc983,8,Transport,Dingdian,california,98433,22.691253,27.4380189,mosque
+loc984,9,Mesta,Zogr√°fos,california,98434,-7.4866757,68.9071861,mosque
+loc985,96807,Village Green,Seririt,california,98435,15.366667,-40.1862129,chruch
+loc986,5,Tomscot,Pinega,california,98436,5.1053,-88.0766404,bus station 
+loc987,9827,Gulseth,MardƒÅ,california,98437,8.3375063,-100.9855409,bus station 
+loc988,1,Starling,R√≠o Grande,california,98438,59.6037789,87.2120599,bus station 
+loc989,4794,Claremont,Pa Mok,california,98439,43.7359241,-73.8066163,bus station 
+loc990,221,Graedel,Oslo,california,98440,-34.7356949,32.7616732,chruch
+loc991,2639,Sherman,Qitan,california,98441,7.18016,18.0285502,chruch
+loc992,5776,Monterey,Gunan,california,98442,24.3653152,106.0845931,chruch
+loc993,4529,Kim,Villa Ascasubi,california,98443,57.7123057,13.4662133,mosque
+loc994,69001,Meadow Valley,Karanggintung,california,98444,51.9980805,-80.7842188,mosque
+loc995,62646,School,Kentau,california,98445,15.8048323,97.3705639,mosque
+loc996,121,Springview,Huilong,california,98446,-23.351784,48.4401128,mosque
+loc997,9,Bashford,Xinglongchang,california,98447,54.4515199,135.8827528,bus station 
+loc998,0,Service,Parychy,california,98448,67.6107356,112.3456985,bus station 
+loc999,9,Elmside,Chenji,california,98449,30.8346,1.967221,bus station 
+loc1000,6466,Charing Cross,ƒåeladn√°,california,98450,-4.1393386,120.284938,bus station 
+loc1001,66,Eagan,Paris 04,california,98451,69.4269147,117.251076,chruch
+loc1002,91,Crest Line,Cuman√°,california,98452,49.0580516,108.2777899,chruch
+loc1003,25,Thackeray,Tizgane,california,98453,-7.6622643,121.0441201,airport
+loc1004,4552,Raven,Zhengwan,california,98454,9.3257165,31.1859257,airport
+loc1005,60,Cordelia,Beizhouzi,california,98455,37.7181047,-48.4939886,airport
+loc1006,933,Maywood,Boyang,california,98456,40.7760704,-71.58275,airport
+loc1007,4348,Warner,Pimenta Bueno,california,98457,51.7147076,107.1955974,airport
+loc1008,3,Kennedy,Almelo,california,98458,46.2893452,-72.0658,airport
+loc1009,22,Hoepker,Noveleta,california,98459,13.8513777,-90.7533601,airport
+loc1010,1624,Bultman,Zhaoguli,california,98460,48.0951271,168.9313628,airport
+loc1011,90,Hovde,Lewin K≈Çodzki,california,98461,-21.8833835,112.320999,airport
+loc1012,61658,Toban,Szlachta,california,98462,-6.3621916,107.7517775,airport
+loc1013,682,Towne,Tuzhu,california,98463,26.641315,-115.572212,airport
+loc1014,2742,Elka,Buta,california,98464,41.3641068,22.9948916,airport
+loc1015,25,Judy,Bruzual,california,98465,43.0429124,136.6048742,airport
+loc1016,11506,Hoard,Banawang,california,98466,10.7179292,98.8426483,airport
+loc1017,35530,Spenser,Kolkhozobod,california,98467,9.9160172,-37.1239897,airport
+loc1018,6,Summer Ridge,La Agustina,california,98468,35.9132087,-77.32901,airport
+loc1019,15004,Trailsway,Shiki,california,98469,-7.4242735,127.9898825,airport
+loc1020,29,Morningstar,Liudu,california,98470,42.8903751,-77.8524505,airport
+loc1021,74,Ramsey,Tartagal,california,98471,15.8785099,122.2058206,airport
+loc1022,3260,Rockefeller,Gambaru,california,98472,29.1520649,-9.1166554,airport
+loc1023,602,Muir,Kasongo,california,98473,-3.283333,17.8873144,airport
+loc1024,96,Arkansas,Xiaqiao,california,98474,38.582529,120.2326771,airport
+loc1025,811,Farragut,Lemland,california,98475,-15.10129,111.6556388,airport
+loc1026,6144,Prentice,Poste de Flacq,california,98476,35.0695474,112.7330892,airport
+loc1027,330,Sugar,Velikiye Luki,california,98477,49.41668,109.720309,airport
+loc1028,8582,Lotheville,Huallanca,california,98478,9.97788,175.282269,airport
+loc1029,4003,Ronald Regan,Betaf,california,98479,44.35542,100.6985155,airport
+loc1030,72,Jay,Mosal‚Äôsk,california,98480,-14.4040989,108.3534306,office
+loc1031,73,Mosinee,Neuilly-sur-Marne,california,98481,-30.6732959,122.1826222,office
+loc1032,70,Surrey,Dateng,california,98482,37.9695509,57.6495717,airport
+loc1033,1,Weeping Birch,Taunoa,california,98483,-6.916443,39.2695629,airport
+loc1034,2,Gerald,Cidahu,california,98484,57.863214,122.086156,airport
+loc1035,1,Lakewood,Pamupukan,california,98485,34.799583,107.346448,airport
+loc1036,1916,Mesta,Th·ªã Tr·∫•n Phong Th·ªï,california,98486,50.2709275,-91.1118075,airport
+loc1037,8076,Eastwood,Popay√°n,california,98487,28.062918,101.1064003,airport
+loc1038,19967,Vahlen,Al ‚ÄòAqabah,california,98488,23.2008019,49.5564219,airport
+loc1039,144,Larry,Sobral da Adi√ßa,california,98489,38.8179787,21.3833543,airport
+loc1040,8,Derek,Stanley,california,98490,-8.601207,37.8775538,airport
+loc1041,48,Pennsylvania,Skulsk,california,98491,35.4335808,-5.8406587,airport
+loc1042,32,Clyde Gallagher,Yonghe,california,98492,46.259991,45.0503473,airport
+loc1043,59774,Del Mar,Simi Valley,california,98493,35.490701,122.5270677,airport
+loc1044,6,Dawn,Paris 08,california,98494,45.965631,-69.9624781,airport
+loc1045,97729,Morningstar,Krugersdorp,california,98495,-6.371137,114.872199,hospital
+loc1046,33,Shopko,Ph√πng,california,98496,51.6878774,121.9160381,hospital
+loc1047,9029,Oneill,Doln√≠ Bojanovice,california,98497,-6.806232,42.8813,hospital
+loc1048,714,Jenna,Kireyevsk,california,98498,48.8162706,-73.3532199,hospital
+loc1049,572,Lillian,Tupsan,california,98499,23.394325,17.2654819,hospital
+loc1050,8732,Lakeland,Fanzhuang,california,98500,44.8119628,113.013638,hospital
+loc1051,16333,Londonderry,Luga,california,98501,36.865827,-46.1741639,airport
+loc1052,4181,Center,Orl√©ans,california,98502,49.8167342,-7.5865443,bus station 
+loc1053,95,Harbort,Washington,california,98503,-19.5097867,6.2862731,bus station 
+loc1054,200,Pearson,Minanga Norte,california,98504,65.2012319,106.058692,bus station 
+loc1055,95311,Manitowish,Tongjing,california,98505,44.3710708,37.5182622,bus station 
+loc1056,44,Harper,Mindyak,california,98506,56.148382,-25.2384711,mall
+loc1057,8,Burrows,Clermont-Ferrand,california,98507,36.854929,137.4024848,mall
+loc1058,7,Logan,Le Mans,california,98508,52.5643,16.9364145,mall
+loc1059,38,Ilene,Noveleta,california,98509,36.1763474,25.3726469,mall
+loc1060,51120,Gulseth,Klyuchevsk,california,98510,28.582654,49.0652963,mall
+loc1061,6034,Maryland,Sobreira,california,98511,13.039074,-8.6268918,mall
+loc1062,20,Badeau,Charlotte,california,98512,13.9311113,109.339497,bus station 
+loc1063,475,Emmet,Caet√©,california,98513,57.7516519,107.367016,bus station 
+loc1064,76,Bluestem,Nakhon Luang,california,98514,7.4804449,23.2638837,bus station 
+loc1065,22,Portage,Artemivs‚Äôk,california,98515,33.9717649,137.3616256,bus station 
+loc1066,326,Vermont,Aubergenville,california,98516,43.4945737,15.4518432,bus station 
+loc1067,35,Pawling,S≈çka,california,98517,15.1249413,18.3453989,bus station 
+loc1068,3481,Kingsford,Smyk√≥w,california,98518,51.2757594,30.5234,airport
+loc1069,1973,Erie,NankƒÅna SƒÅhib,california,98519,33.8831154,31.3784704,airport
+loc1070,239,Comanche,Salinas,california,98520,-7.0240978,5.7576526,bus station 
+loc1071,7,Valley Edge,Huangtukuang,california,98521,57.4924284,-71.9801443,bus station 
+loc1072,29759,Hallows,Henglin,california,98522,64.1272315,39.7430006,bus station 
+loc1073,9,Jenifer,Yantak,california,98523,51.068668,-64.2726889,bus station 
+loc1074,8,Oneill,Chishui,california,98524,55.6710006,139.7874841,office
+loc1075,3621,Pankratz,La Coipa,california,98525,52.1474235,-6.2071246,office
+loc1076,2,Autumn Leaf,Chengbei,california,98526,56.3103675,107.6200524,office
+loc1077,853,Thompson,Genting,california,98527,25.112046,-103.9970779,office
+loc1078,10692,Gerald,Bozkow,california,98528,34.7474,100.0135929,office
+loc1079,201,Loftsgordon,Sakchu-≈≠p,california,98529,14.641514,-78.9,office
+loc1080,6466,Clarendon,Huit√©,california,98530,49.7517708,-75.18,office
+loc1081,32,Redwing,Paris 12,california,98531,49.5048872,72.9401509,office
+loc1082,740,Grasskamp,Harrisburg,california,98532,12.3420676,124.518169,airport
+loc1083,57,Mcbride,Brok,california,98533,45.1689858,116.4455561,airport
+loc1084,8206,Maple,Vare≈°,california,98534,-1.658501,120.145342,airport
+loc1085,6,Nancy,Damao,california,98535,35.86166,126.4510829,airport
+loc1086,90,Mifflin,Chotepe,california,98536,14.5508865,111.4207572,airport
+loc1087,50,Goodland,Barra Bonita,california,98537,8.508983,168.3661011,airport
+loc1088,70565,Nancy,Mor√≥n,california,98538,41.4642919,-57.4485845,airport
+loc1089,6578,Lerdahl,K√∏benhavn,california,98539,14.592558,9.8180732,airport
+loc1090,2719,Evergreen,Partikan,california,98540,41.782855,27.5615244,airport
+loc1091,5855,Shopko,Camet√°,california,98541,50.34349,106.4376425,airport
+loc1092,5576,Valley Edge,Staroutkinsk,california,98542,60.6092521,114.3311718,airport
+loc1093,3,Sommers,Piraju√≠,california,98543,35.3517729,114.498761,airport
+loc1094,75,Manufacturers,Mirago√¢ne,california,98544,35.1379343,110.827862,airport
+loc1095,315,Texas,Talagasari,california,98545,40.6485476,123.5787505,airport
+loc1096,66,Clarendon,Mƒõln√≠k,california,98546,-19.4704956,-77.0593246,airport
+loc1097,3282,Lyons,Curahklapa,california,98547,-6.9484206,-71.2325958,airport
+loc1098,331,Hanson,Lawonda,california,98548,-34.2965929,14.9688466,airport
+loc1099,464,Brickson Park,Tissa,california,98549,40.0016242,2.8002946,airport
+loc1100,85,Nelson,M√©rignac,california,98550,-7.6629639,-8.2201345,airport
+loc1101,418,Everett,Nilanapo,california,98551,40.9050121,137.0770574,airport
+loc1102,78494,Prairie Rose,Asan Kumbang,california,98552,-38.043127,-68.129727,airport
+loc1103,331,Sugar,Cotabambas,california,98553,2.157713,24.6980251,airport
+loc1104,9,Crescent Oaks,Bang Phlat,california,98554,-37.7071402,47.783333,airport
+loc1105,87,Mandrake,Fershampenuaz,california,98555,56.8999269,-8.581189,airport
+loc1106,11,Onsgard,Wutan,california,98556,49.4702817,-86.2514126,airport
+loc1107,3815,Carberry,Zhenxi,california,98557,45.7173944,100.3573891,airport
+loc1108,17511,Gina,Baota,california,98558,-27.582369,109.9526633,airport
+loc1109,6390,Old Gate,Esquina,california,98559,31.487889,114.300474,office
+loc1110,1707,Dayton,Lyon,california,98560,36.04337,-102.0662939,office
+loc1111,17,Northport,Sidamulya Satu,california,98561,7.9247693,4.6999899,office
+loc1112,69,Nova,Martaban,california,98562,-34.990888,100.464947,office
+loc1113,23813,5th,Tundagan,california,98563,50.585206,-123.3227421,office
+loc1114,15,Northfield,Ayapel,california,98564,-6.361128,47.39297,office
+loc1115,210,Anderson,Windsor,california,98565,44.9259216,-0.9636732,office
+loc1116,26,Grim,Masaran,california,98566,30.3617348,106.630153,office
+loc1117,3,Delaware,Teluk Pinang,california,98567,46.3782836,25.5207204,office
+loc1118,163,Truax,Sanjiang,california,98568,40.7701712,30.1775921,mall
+loc1119,9,Dovetail,Tabasalu,california,98569,5.329576,13.4761485,mall
+loc1120,7359,Superior,Jinshi,california,98570,31.528143,-37.269356,state building
+loc1121,23255,Loftsgordon,Shuiyang,california,98571,-11.0443228,-118.26,state building
+loc1122,1091,Fordem,Bassa,california,98572,-13.7994093,103.8,state building
+loc1123,7996,Larry,Antabamba,california,98573,49.18306,33.9020508,state building
+loc1124,4,Brown,Tanjungbatu,california,98574,52.3770271,107.5179721,mall
+loc1125,8,Pierstorff,Waterloo,california,98575,14.6052661,112.805131,mall
+loc1126,240,Ronald Regan,√âpinal,california,98576,38.0162314,106.0081819,hospital
+loc1127,37,Autumn Leaf,Macia,california,98577,38.521085,121.0298199,hospital
+loc1128,40,Russell,Oranmore,california,98578,-3.6062721,24.93914,hospital
+loc1129,75,East,Villa Santa Rita,california,98579,31.23285,13.9466019,hospital
+loc1130,76161,Rieder,Azara,california,98580,-7.5519782,28.6519897,hospital
+loc1131,222,Oak,Calhetas,california,98581,37.0741297,1.2986666,hospital
+loc1132,736,Starling,Kedungreja,california,98582,30.820143,12.5505533,hospital
+loc1133,25372,Tennessee,Peza e Madhe,california,98583,1.3350205,-86.19,hospital
+loc1134,7,Larry,Xaysetha,california,98584,-5.0636851,108.2323,mall
+loc1135,6107,Transport,Novoishimskiy,california,98585,-8.4114856,117.343545,state building
+loc1136,4,Nova,Shangping,california,98586,29.344253,123.1721164,state building
+loc1137,7378,Swallow,Bendosewu,california,98587,-7.305958,111.4182,state building
+loc1138,8301,Canary,Madingou,california,98588,13.60375,-71.7711448,state building
+loc1139,2374,Kingsford,San Cosme y Dami√°n,california,98589,16.0392291,-6.3422325,mall
+loc1140,46781,American Ash,Ust‚Äô-Donetskiy,california,98590,43.8564397,-8.3877778,mall
+loc1141,2,Evergreen,Kedungbulu,california,98591,43.7441795,106.079271,mall
+loc1142,8058,Loftsgordon,P≈ô√≠bor,california,98592,58.4005878,-74.737081,mall
+loc1143,11418,Division,Sangzhou,california,98593,13.4254522,107.5187988,mall
+loc1144,9151,Fuller,Glubokiy,california,98594,4.1175121,113.145504,airport
+loc1145,83,Division,Tubod,california,98595,5.329576,7.6480296,airport
+loc1146,72992,Grim,Hegarsari,california,98596,51.05359,22.9774589,airport
+loc1147,93,Troy,Buenos Aires,california,98597,44.41113,-90.2481337,airport
+loc1148,6220,Beilfuss,Huanglong,california,98598,-49.3496422,-88.5945715,airport
+loc1149,516,Thompson,Kedungtuban,california,98599,32.890479,35.0993687,airport
+loc1150,9380,Crownhardt,Watodei,california,98600,51.4758022,121.0143507,airport
+loc1151,44,Hudson,Nanjie,california,98601,52.0103249,-73.8977693,airport
+loc1152,252,Waxwing,Erdenet,california,98602,56.6182449,-75.75,airport
+loc1153,5893,Prairieview,Marisol,california,98603,-7.355927,120.284938,airport
+loc1154,663,Killdeer,Al Jamƒ´mah,california,98604,50.6538116,113.287085,airport
+loc1155,45579,Bay,Guadalupe,california,98605,44.2682727,80.58662,airport
+loc1156,52,Mifflin,Kota Bharu,california,98606,28.228209,20.1093853,airport
+loc1157,91761,Bartelt,Shapa,california,98607,-22.7563906,116.746096,office
+loc1158,4171,Waxwing,Bemb√®r√®k√®,california,98608,-6.6655005,-37.2776539,office
+loc1159,86,Oneill,Kard√≠tsa,california,98609,-25.9685155,61.6171856,office
+loc1160,24911,Warner,Pankovka,california,98610,41.2947756,-71.4692843,office
+loc1161,875,Laurel,Kaset Wisai,california,98611,31.231121,-63.8699655,office
+loc1162,5916,Little Fleur,Skerries,california,98612,39.134282,30.9894691,state building
+loc1163,10619,Corry,Sukacai,california,98613,46.2214936,-52.4626809,state building
+loc1164,46986,Beilfuss,Jamaica,california,98614,50.401499,91.29244,state building
+loc1165,21877,Springview,Lazdijai,california,98615,17.45685,34.2747004,state building
+loc1166,0,Independence,Heling,california,98616,48.9172739,-1.555363,office
+loc1167,9648,Lindbergh,S√∂dert√§lje,california,98617,43.32756,92.8465307,office
+loc1168,94,Veith,Karaidel‚Äô,california,98618,24.646975,-72.9061903,hospital
+loc1169,6,Ronald Regan,Sikasso,california,98619,58.1295491,18.0674023,hospital
+loc1170,66,Russell,Pravdinsk,california,98620,-2.7540915,115.265535,hospital
+loc1171,22,Monument,Cincinnati,california,98621,-7.0868507,112.9857433,hospital
+loc1172,96,Larry,Kimje,california,98622,25.48385,113.692921,hospital
+loc1173,47,Dexter,Mohelno,california,98623,19.5403533,111.579554,hospital
+loc1174,8,Rusk,Moreira de Geraz do Lima,california,98624,30.07728,119.572183,hospital
+loc1175,17132,Onsgard,Chengui,california,98625,40.8016728,36.9785033,hospital
+loc1176,439,Portage,Topola,california,98626,9.9578348,37.9579616,office
+loc1177,75872,Oriole,Carrazeda de Ansi√£es,california,98627,45.0432559,45.2304,office
+loc1178,3094,Nevada,San Antonio,california,98628,27.218444,-6.1182429,office
+loc1179,2087,Porter,Zhongxiang,california,98629,39.6472855,-35.8482191,office
+loc1180,0,Nevada,Dongyang,california,98630,16.1344075,25.9658805,office
+loc1181,2,Miller,Goussainville,california,98631,31.026394,38.1830715,office
+loc1182,8,Portage,Magaozhuang,california,98632,30.978349,8.5144352,office
+loc1183,88,Memorial,Tuopu Luke,california,98633,51.1610189,66.1742259,office
+loc1184,5028,Del Mar,Battaramulla South,california,98634,41.5088439,21.7376178,office
+loc1185,782,Corben,Naranjos,california,98635,-7.0807005,24.9872821,office
+loc1186,85970,Waxwing,Zhonghe,california,98636,29.289648,123.9089906,office
+loc1187,4567,Texas,Stockholm,california,98637,-7.2635671,-77.3485436,office
+loc1188,47928,Main,Vishnyakovskiye Dachi,california,98638,58.3104915,-87.1242072,office
+loc1189,47697,Mesta,Jiulonggang,california,98639,51.8971298,114.6843819,office
+loc1190,13884,Kenwood,Cibogo,california,98640,49.0410029,-7.632555,hospital
+loc1191,8,Division,Baliuag Nuevo,california,98641,35.588399,-105.2061347,hospital
+loc1192,39,Scofield,Puyung,california,98642,-7.7076152,104.969882,hospital
+loc1193,9076,Homewood,Kairouan,california,98643,-14.4076036,13.0587651,hospital
+loc1194,965,Valley Edge,Cotahuasi,california,98644,39.7306375,43.7924407,hospital
+loc1195,47980,Hauk,Guaimaca,california,98645,35.846212,103.26311,hospital
+loc1196,83,Esch,Rostokino,california,98646,-8.4375675,107.9561464,hospital
+loc1197,4998,Esker,Paris 13,california,98647,-17.0918434,82.978928,hospital
+loc1198,9451,Bunting,Moycullen,california,98648,32.331765,107.345882,mall
+loc1199,815,Stephen,Bis√©e,california,98649,34.199479,118.299341,mall
+loc1200,1,Melrose,Shiroishi,california,98650,37.4040147,-45.2325476,mall
+loc1201,8,Caliangt,I·∏©sim,california,98651,36.9594997,106.009915,mall
+loc1202,72,Cordelia,Kyenjojo,california,98652,12.6679167,101.9476452,airport
+loc1203,6,Jackson,K√©falos,california,98653,15.5251409,52.6146057,airport
+loc1204,87888,Waywood,New Haven,california,98654,12.8025919,124.6904308,airport
+loc1205,6,Doe Crossing,Mospyne,california,98655,49.5206119,-8.5173008,airport
+loc1206,826,Colorado,Luxi,california,98656,-9.7413641,79.18447,airport
+loc1207,9782,Bartelt,Wedangtemu,california,98657,31.220367,-73.663027,airport
+loc1208,217,Johnson,Laranganglintong,california,98658,17.2702191,-41.0713439,airport
+loc1209,727,Larry,Courtaboeuf,california,98659,54.70375,16.4764384,airport
+loc1210,0,High Crossing,Lenart v Slov. Goricah,california,98660,54.8986278,108.1264,airport
+loc1211,1639,3rd,Esparza,california,98661,54.1458603,-87.0399404,airport
+loc1212,5,Nevada,Cijayana,california,98662,49.9164727,112.666947,airport
+loc1213,373,Sutherland,Czy≈ºowice,california,98663,-8.7872,11.21814,airport
+loc1214,16961,Commercial,Bairro,california,98664,-14.9479605,120.15507,airport
+loc1215,59,Hooker,Beruniy,california,98665,60.7613626,-8.7397233,hospital
+loc1216,8,Morningstar,Garibaldi,california,98666,22.6274369,104.373372,state building
+loc1217,78168,Hanson,Talabaan,california,98667,-7.5284147,111.8568586,state building
+loc1218,87,Gerald,Uga,california,98668,52.5713649,-62.6480207,state building
+loc1219,5,Bellgrove,Koumra,california,98669,-11.82198,26.8447254,state building
+loc1220,688,Crowley,San Remigio,california,98670,-16.4708895,17.3278637,mall
+loc1221,6,Dixon,Beaumont,california,98671,14.8857071,15.4518432,airport
+loc1222,2,Pawling,Consolacion,california,98672,31.7711077,38.7865445,airport
+loc1223,928,Main,Machov,california,98673,49.0344736,100.307174,airport
+loc1224,18,Ilene,Bang Bua Thong,california,98674,41.217649,98.4683053,airport
+loc1225,9264,Darwin,Enca√±ada,california,98675,-17.6509195,-82.116955,airport
+loc1226,95598,North,Los Angeles,california,98676,-8.8598312,110.289179,airport
+loc1227,208,Lukken,Shazi,california,98677,29.584292,20.85188,airport
+loc1228,69,Acker,Cacocum,california,98678,28.159141,39.5788904,airport
+loc1229,1,Bonner,≈™dalah,california,98679,25.2048493,-45.2302005,airport
+loc1230,47,Del Mar,Arroyo Seco,california,98680,9.9010414,-122.3385759,state building
+loc1231,7,Longview,Tors√•s,california,98681,-37.052608,13.1536197,state building
+loc1232,4887,Rigney,Duqu,california,98682,36.650038,107.1573142,state building
+loc1233,41981,Graceland,ShibirghƒÅn,california,98683,27.30459,121.8525,state building
+loc1234,91,Cherokee,Mullovka,california,98684,-13.2664976,-8.7534535,school
+loc1235,29875,Spohn,Daming,california,98685,34.2698909,15.076898,school
+loc1236,32,Talmadge,Qingdao,california,98686,-6.8641543,126.065213,school
+loc1237,3,Nelson,Villa Gesell,california,98687,55.599064,15.0570131,school
+loc1238,3,Bluestem,Rassvet,california,98688,-6.1519535,39.7408655,school
+loc1239,79883,Daystar,Yanji,california,98689,27.198639,2.394771,state building
+loc1240,49035,Ryan,Pilchowice,california,98690,41.8401694,-85.3162066,state building
+loc1241,1,Northland,Siewierz,california,98691,51.9913857,117.1147095,state building
+loc1242,95,Burrows,Vlachovo B≈ôez√≠,california,98692,41.4956796,106.482346,state building
+loc1243,86,Cascade,Dob≈ô√≠≈°,california,98693,49.7524226,10.2768388,college
+loc1244,822,7th,Katyuzhanka,california,98694,-8.1623059,67.63696,college
+loc1245,5,Victoria,T√∂gr√∂g,california,98695,30.501816,105.480028,college
+loc1246,93,Westerfield,Buyuan,california,98696,48.9097908,140.2064183,college
+loc1247,15952,Leroy,Bocos,california,98697,1.160532,17.3168102,college
+loc1248,9,Hansons,Danan,california,98698,-38.2326538,106.755605,college
+loc1249,39,Twin Pines,MƒÅymay,california,98699,12.5179287,20.8092134,college
+loc1250,78779,Hazelcrest,Tres Isletas,california,98700,51.4556245,-97.5308167,college
+loc1251,264,Waywood,Rojas,california,98701,-8.4734,22.6229733,college
+loc1252,6,Pawling,Bantuanon,california,98702,54.2315533,72.1485713,college
+loc1253,9,Merchant,Armenokh√≥rion,california,98703,32.052539,139.2162168,college
+loc1254,4293,Menomonie,Parapat,california,98704,-26.58041,15.8065454,college
+loc1255,82,Pepper Wood,Vyatskiye Polyany,california,98705,17.0437082,-81.0330246,airport
+loc1256,73695,Mccormick,Tuban,california,98706,16.3112941,-14.769285,airport
+loc1257,6,Sunfield,Beiyuan,california,98707,50.35349,50.534262,airport
+loc1258,27,Thackeray,Tamansari,california,98708,11.4385093,72.1486548,airport
+loc1259,80379,Darwin,Chatian,california,98709,-6.858925,38.956757,airport
+loc1260,46,Oak Valley,Banjar Peguyangan,california,98710,-22.573256,108.133333,airport
+loc1261,776,Swallow,Guilherand-Granges,california,98711,8.1393408,121.0224008,airport
+loc1262,1,Grasskamp,Irec√™,california,98712,59.7457795,17.0036172,airport
+loc1263,28,Shelley,Oslo,california,98713,56.0418013,20.3586957,airport
+loc1264,72751,Roxbury,Intibuc√°,california,98714,-6.4937893,114.289528,airport
+loc1265,144,Mayer,Chum Phae,california,98715,67.286069,15.2696961,airport
+loc1266,56469,Bashford,Frankfort,california,98716,-7.158502,133.4113691,airport
+loc1267,40650,Washington,Tuchkovo,california,98717,63.0331454,126.6607764,airport
+loc1268,94,Melvin,Caherconlish,california,98718,8.9282133,44.4991029,office
+loc1269,2006,Ridgeway,Medeiros Neto,california,98719,22.919769,102.495014,office
+loc1270,125,Moulton,Asbest,california,98720,-6.4086821,22.6098737,office
+loc1271,20786,Sunfield,Ourozinho,california,98721,22.4217587,21.4472756,office
+loc1272,3695,Carpenter,Villeneuve-d'Ascq,california,98722,47.6949791,4.3662321,state building
+loc1273,36,Clove,Soledad,california,98723,6.1097207,-0.8453268,state building
+loc1274,62,Manufacturers,Duki,california,98724,40.7832844,85.9779314,state building
+loc1275,19,Milwaukee,North Vancouver,california,98725,10.3121032,119.460526,state building
+loc1276,36410,Dorton,Xinhua,california,98726,51.1461168,102.2261837,office
+loc1277,530,Northridge,Khairpur,california,98727,-22.7733,17.1921015,office
+loc1278,9687,Hayes,Tikhvin,california,98728,44.5007687,-39.4122984,office
+loc1279,15263,Maple Wood,Cast√™lo,california,98729,49.8445266,12.5710873,office
+loc1280,4795,Lyons,Linxihe,california,98730,10.668154,111.902604,university
+loc1281,59,Esker,S≈´rƒ´ƒÅn,california,98731,49.4259425,110.346166,university
+loc1282,2,Grover,Po≈Çaniec,california,98732,52.2215511,119.425836,university
+loc1283,5,Carberry,Dauphin,california,98733,-6.9965,101.808485,airport
+loc1284,3,Northfield,Obanazawa,california,98734,50.5609123,18.3373855,airport
+loc1285,719,Sachs,Washington,california,98735,20.9275148,107.5408308,airport
+loc1286,659,John Wall,Banƒ´ Zayd,california,98736,2.731033,114.136954,airport
+loc1287,10780,Onsgard,Vanadjou,california,98737,50.2566859,126.965607,airport
+loc1288,934,Gerald,Changgou,california,98738,36.933812,40.1445151,airport
+loc1289,63259,Dennis,Murganhal,california,98739,-6.9465,5.8978018,airport
+loc1290,24244,Del Sol,Luyang,california,98740,-6.3825,121.4228893,airport
+loc1291,56,Schlimgen,Tongzha,california,98741,35.48936,21.87599,airport
+loc1292,79,Tony,Valuyki,california,98742,35.1274285,-0.1518541,airport
+loc1293,8139,Londonderry,Avellaneda,california,98743,49.3696768,122.9760543,airport
+loc1294,28,Ronald Regan,Kuanda,california,98744,63.827461,59.333,airport
+loc1295,48639,Heath,Sambongpari,california,98745,34.08611,121.0524334,airport
+loc1296,7904,Vahlen,C√°i D·∫ßu,california,98746,38.6125141,129.517113,office
+loc1297,708,Warbler,ƒåerno≈æice,california,98747,27.508898,-45.5313666,office
+loc1298,74023,Miller,Maibu,california,98748,36.815129,90.3465971,office
+loc1299,0,Gateway,Yuquan,california,98749,2.481207,120.9915504,office
+loc1300,73633,Delladonna,Pola≈Ñczyk,california,98750,-7.0062,0.768949,office
+loc1301,49,Marcy,Tyrnyauz,california,98751,24.781681,-49.2162908,office
+loc1302,10439,Karstens,Th·ªã Tr·∫•n B√¨nh M·ªπ,california,98752,46.4457008,125.582116,office
+loc1303,9,Manufacturers,Dulovo,california,98753,40.7582228,18.3655679,office
+loc1304,405,Merry,Krupka,california,98754,40.9803118,-8.3092933,office
+loc1305,6,Corben,Jardim,california,98755,50.1283894,97.730807,office
+loc1306,89958,Corry,Amberd,california,98756,30.5604564,114.908872,office
+loc1307,440,Utah,Wangmang,california,98757,34.66667,105.5943388,airport
+loc1308,407,Hoard,North Side,california,98758,13.0710293,63.66681,airport
+loc1309,1,Corry,Wonorejo,california,98759,17.9410217,110.608528,airport
+loc1310,9622,Green Ridge,Guinsadan,california,98760,50.7569215,113.467503,airport
+loc1311,174,Green,Aulnay-sous-Bois,california,98761,45.323812,-99.1497664,airport
+loc1312,15,Crest Line,Volochys‚Äôk,california,98762,11.1856085,115.1859517,airport
+loc1313,431,Laurel,Komyshuvakha,california,98763,44.95015,131.953488,airport
+loc1314,7019,Victoria,Mersam,california,98764,-11.2780052,17.5505152,airport
+loc1315,53,Forest Dale,Privolzhsk,california,98765,-7.413598,100.5072582,airport
+loc1316,9595,Corben,Alajuela,california,98766,40.752984,107.8346924,airport
+loc1317,466,Miller,H√§ssleholm,california,98767,40.2367283,114.872199,airport
+loc1318,79042,Corry,Balung Barat,california,98768,34.326903,25.987464,airport
+loc1319,73,Bunker Hill,Qiaozhuang,california,98769,-6.7974263,-79.5069436,airport
+loc1320,8,Dawn,Poja Nae,california,98770,55.6024656,-8.4835185,office
+loc1321,8,Eastlawn,Bontang,california,98771,18.1405298,107.7610977,office
+loc1322,5,Artisan,Kiambu,california,98772,51.3978,6.2057449,office
+loc1323,667,Becker,Wucun,california,98773,43.4598651,10.3441758,office
+loc1324,69,Warrior,La√ß,california,98774,43.9574882,16.5289486,mall
+loc1325,18333,Grover,Tournavista,california,98775,44.9727255,-83.66,mall
+loc1326,27789,Schurz,Xinning,california,98776,27.5566857,17.1762909,mall
+loc1327,0,Dapin,Changning,california,98777,52.85768,104.559168,airport
+loc1328,9,Spenser,T√∏nsberg,california,98778,14.4783119,-40.7361322,airport
+loc1329,95,Eggendart,Sanban,california,98779,25.3902138,119.4382459,airport
+loc1330,95591,Riverside,Monte do Outeiro,california,98780,43.8903154,12.5911341,airport
+loc1331,9194,Dryden,Jiangkou,california,98781,40.6307451,120.997522,airport
+loc1332,1033,Lyons,Buzhakan,california,98782,14.1843767,36.2020028,airport
+loc1333,6507,Sage,Yangtan,california,98783,-38.7359018,-58.5328734,airport
+loc1334,4482,Mitchell,Bobon,california,98784,41.6183527,-1.6509128,airport
+loc1335,69,Brickson Park,Tawen Aobao,california,98785,61.5549021,120.9428391,university
+loc1336,6,Elmside,Leiden,california,98786,9.8734418,104.585735,university
+loc1337,228,Cascade,Bela Vista,california,98787,51.898029,34.779603,university
+loc1338,458,Colorado,Saltsj√∂baden,california,98788,38.0491517,113.459749,university
+loc1339,469,Declaration,ShƒÅhdƒÅdkot,california,98789,48.3842974,133.86495,university
+loc1340,369,Namekagon,Washington,california,98790,35.3434929,-170.7810162,university
+loc1341,14,Dottie,Santa Rita,california,98791,57.1928469,31.0539028,university
+loc1342,65640,Moland,Berbera,california,98792,12.8513784,117.005412,university
+loc1343,4115,Valley Edge,Kuma,california,98793,51.247228,104.470279,university
+loc1344,6919,Autumn Leaf,Lembanah,california,98794,52.0592063,107.172085,university
+loc1345,4044,Kinsman,Dis≈´q,california,98795,37.8505169,110.6647198,university
+loc1346,7887,Parkside,Dianya,california,98796,40.9837776,46.3388109,university
+loc1347,66,Graceland,Manticao,california,98797,29.385634,29.6278481,college
+loc1348,89,Morning,Oslo,california,98798,-6.3139863,28.0976369,college
+loc1349,989,Sommers,Morocel√≠,california,98799,51.287518,22.956207,college
+loc1350,17005,Badeau,Guariba,california,98800,14.6213127,17.0509784,college
+loc1351,405,Cody,Gjo√ßaj,california,98801,-7.7580914,-99.1985584,college
+loc1352,4,Holmberg,Nashville,california,98802,17.2375,35.18047,college
+loc1353,46,Kings,Shchuchin,california,98803,59.330921,117.430061,college
+loc1354,127,Dawn,Bokor,california,98804,45.9045993,45.0240889,college
+loc1355,4303,Northland,Longbei,california,98805,36.1,112.509269,mall
+loc1356,864,Express,Hantang,california,98806,-17.1101039,125.05806,mall
+loc1357,4,Jackson,Pirapozinho,california,98807,-33.9905526,-25.145931,mall
+loc1358,43,Stang,Hisings K√§rra,california,98808,49.3389251,26.313132,mall
+loc1359,96,Reinke,Jinping,california,98809,14.9941724,-91.444669,mall
+loc1360,1456,Derek,Jrashen,california,98810,38.5866475,121.52229,mall
+loc1361,3951,Upham,Basing,california,98811,42.8867657,115.190725,airport
+loc1362,2039,Brentwood,Shangdongjie,california,98812,5.9354963,3.1685214,airport
+loc1363,77252,Stuart,Lijia,california,98813,-6.8618504,133.8964708,airport
+loc1364,88531,Rowland,Kotadukuh,california,98814,13.490046,70.6157308,airport
+loc1365,9,Delaware,Kristianstad,california,98815,15.3178606,33.2989663,office
+loc1366,27,Londonderry,Drnje,california,98816,-8.6816,-3.0626284,office
+loc1367,8981,Victoria,Leopoldina,california,98817,39.00366,112.390857,office
+loc1368,0,Dixon,G√∂teborg,california,98818,35.70915,46.3388109,office
+loc1369,92172,Ramsey,Bulianhe,california,98819,41.811979,-89.9262925,office
+loc1370,280,Hudson,Buje,california,98820,25.112046,-97.8755614,office
+loc1371,4,Ryan,Beijie,california,98821,27.378875,45.4592782,office
+loc1372,78824,Sycamore,Valence,california,98822,32.317719,-61.1053691,office
+loc1373,8,Ilene,Pancan,california,98823,17.8261143,62.3271815,office
+loc1374,49201,Erie,Pital,california,98824,-8.5774,126.7660309,office
+loc1375,8,Melrose,Portari√°,california,98825,-8.2156978,-7.8993756,office
+loc1376,70885,Anthes,Mata de S√£o Jo√£o,california,98826,45.9735653,-68.1435063,office
+loc1377,7,Bluestem,Erdaocha,california,98827,25.84791,71.4599651,office
+loc1378,6,Brickson Park,Ap√≥stoles,california,98828,31.459682,-91.1508967,airport
+loc1379,870,Lien,Ner√≥polis,california,98829,59.9191985,19.0158217,airport
+loc1380,89,Luster,Peruc,california,98830,41.98803,124.7496736,airport
+loc1381,142,Miller,Kasli,california,98831,41.117245,130.5762726,airport
+loc1382,63032,Spohn,KhƒÅn Neshƒ´n,california,98832,47.2495437,121.505132,airport
+loc1383,66,Briar Crest,Aipe,california,98833,39.134282,50.7951517,airport
+loc1384,421,Waxwing,El Tr√°nsito,california,98834,40.01833,111.0566,airport
+loc1385,97321,Armistice,Yidao,california,98835,3.0070658,-87.63,airport
+loc1386,96277,Melvin,Soissons,california,98836,-22.9941291,-74.2932,airport
+loc1387,2451,Nancy,Formosa,california,98837,27.6873608,-38.5690418,airport
+loc1388,8,Gateway,L≈©ng H·ªì,california,98838,16.8907872,22.5669964,airport
+loc1389,9211,Debs,Geta,california,98839,37.9715592,-80.2711588,airport
+loc1390,865,Norway Maple,Bebedahan,california,98840,30.72265,37.4521319,airport
+loc1391,20601,John Wall,Tab≈´k,california,98841,20.8068681,14.6349097,airport
+loc1392,3,Scott,Quezalguaque,california,98842,44.7535743,41.030903,airport
+loc1393,29264,Reindahl,Salvador,california,98843,15.0286165,23.0297501,airport
+loc1394,5418,Cascade,Ibicara√≠,california,98844,32.874735,69.1625896,airport
+loc1395,0,Florence,L√ºfeng,california,98845,33.5449468,111.9298922,airport
+loc1396,8305,Spohn,Hengelo,california,98846,16.5154623,24.9298029,airport
+loc1397,604,Kipling,Stockholm,california,98847,36.038046,25.0182231,airport
+loc1398,3309,Hayes,Jawf al MaqbƒÅbah,california,98848,51.0003903,120.51769,airport
+loc1399,3,Becker,Zhigulevsk,california,98849,13.6153077,20.3413074,airport
+loc1400,2640,Sheridan,Rikitgaib,california,98850,-2.8534379,28.266799,airport
+loc1401,2486,Leroy,Dait≈çch≈ç,california,98851,-31.3215134,-52.9164069,airport
+loc1402,68720,Spohn,Dokolo,california,98852,14.5700525,127.45472,airport
+loc1403,482,Dennis,Helsingborg,california,98853,27.121652,-121.49,airport
+loc1404,143,Schlimgen,Tangerang,california,98854,51.848898,133.193015,airport
+loc1405,41,Russell,Holoriang,california,98855,58.041296,7.3408535,temple
+loc1406,4,Saint Paul,Zdolbuniv,california,98856,45.75997,-58.7005845,temple
+loc1407,571,Nobel,Kuroishi,california,98857,-6.9996952,40.1587542,temple
+loc1408,941,Namekagon,Owo,california,98858,52.0402452,120.9245309,temple
+loc1409,919,Logan,Yangjiao,california,98859,14.5618599,2.9134412,temple
+loc1410,59582,Bashford,Palmira,california,98860,41.618679,19.8466246,temple
+loc1411,85,Butterfield,≈ªernica,california,98861,49.7931487,117.101355,temple
+loc1412,771,Merrick,Lokosovo,california,98862,50.1659651,2.2615744,temple
+loc1413,13256,Lyons,Kurumkan,california,98863,43.8164948,116.40605,temple
+loc1414,23,Sugar,Gradiƒái,california,98864,54.8539133,106.8490872,mall
+loc1415,418,Lindbergh,San Pedro,california,98865,49.0701119,102.904318,mall
+loc1416,20529,Pine View,Ramon‚Äô,california,98866,63.2706498,19.4538014,mall
+loc1417,11,Muir,Gevgelija,california,98867,48.9101028,34.7981,mall
+loc1418,71426,Karstens,Stockholm,california,98868,44.0738696,27.8018337,mall
+loc1419,29,Ridge Oak,Pellegrini,california,98869,14.7044701,29.2518185,mall
+loc1420,79965,Hollow Ridge,Cankova,california,98870,22.105035,24.836672,mall
+loc1421,83912,Summerview,Yancheng,california,98871,22.786186,9.8194682,mall
+loc1422,11806,Little Fleur,Sali,california,98872,36.285616,38.5125708,mall
+loc1423,98,School,Hong‚Äôan,california,98873,28.003553,48.5312279,university
+loc1424,38034,Morrow,Zerkten,california,98874,32.114217,-8.5444494,university
+loc1425,51061,Prentice,Ngrejo,california,98875,31.7746473,28.2477778,university
+loc1426,18018,Southridge,Mao,california,98876,-10.7246,-46.5451516,university
+loc1427,74,Village,Geshan,california,98877,14.9649534,53.8103933,university
+loc1428,56102,Lillian,Lamawalang,california,98878,27.9961123,100.11996,university
+loc1429,2550,Kenwood,Baton Rouge,california,98879,9.8996343,100.1255164,university
+loc1430,198,Forest Run,Byst≈ôany,california,98880,55.4254871,13.9697218,university
+loc1431,477,Mayfield,SƒÖcz√≥w,california,98881,-7.460987,34.915084,university
+loc1432,3,Acker,Link√∂ping,california,98882,40.06165,-76.5155834,university
+loc1433,5653,Erie,Baghdad,california,98883,32.0631839,107.1750393,university
+loc1434,11310,Green,Dir√©,california,98884,29.4315861,-8.5568556,university
+loc1435,1,Truax,√ñrebro,california,98885,-7.1665502,-47.6063666,hospital
+loc1436,513,Fulton,Parque Industrial,california,98886,40.417358,28.0172665,hospital
+loc1437,58392,Spaight,Chengzhong,california,98887,-22.4036831,110.8463512,hospital
+loc1438,328,Oak Valley,Tetovo,california,98888,39.5691202,-25.541625,hospital
+loc1439,826,Orin,Ribeiro,california,98889,-8.3434104,-111.8926303,hospital
+loc1440,426,Judy,Mulyorejo,california,98890,-7.6631652,113.093384,hospital
+loc1441,55,Johnson,Kitakata,california,98891,-21.6177232,112.5391259,hospital
+loc1442,6,Washington,Sukorejo,california,98892,-7.1554,140.2064183,hospital
+loc1443,5525,Hermina,Diang,california,98893,6.2958736,120.4493879,hospital
+loc1444,5,Barby,Hengjing,california,98894,-7.6209569,-44.5805309,hospital
+loc1445,126,Muir,Arneiro,california,98895,0.3912132,9.9637931,hospital
+loc1446,91092,Wayridge,Corral,california,98896,59.6517905,119.038321,hospital
+loc1447,886,Bellgrove,ShƒÅhpur ChƒÅkar,california,98897,55.7598466,-9.2419409,hospital
+loc1448,4859,Caliangt,Tsurugi-asahimachi,california,98898,50.5487974,-13.3211909,school
+loc1449,5,Esch,Laohekou,california,98899,41.5044882,107.840624,school
+loc1450,22,6th,Gaula,california,98900,37.99,-71.7844893,school
+loc1451,36174,Grayhawk,S√£o Mateus,california,98901,-2.0349854,-74.4584245,school
+loc1452,6371,Alpine,Jevremovac,california,98902,22.512308,27.0535,school
+loc1453,24,Glendale,Beitan,california,98903,27.6486636,24.0551606,school
+loc1454,17,Carpenter,Sangiang,california,98904,-6.9834604,22.300981,school
+loc1455,7,Main,Starobaltachevo,california,98905,32.9578909,-75.2537397,school
+loc1456,533,Leroy,La Cuesta,california,98906,27.861901,106.04972,school
+loc1457,900,Namekagon,Dorowa Mining Lease,california,98907,9.7666664,110.2727965,school
+loc1458,6,Donald,Dulovo,california,98908,50.817118,133.9508311,school
+loc1459,34,Hoepker,Kaiaf,california,98909,55.6699522,100.2905604,bus station
+loc1460,4,Paget,Colorado Springs,california,98910,39.293263,104.565145,bus station
+loc1461,2,Manitowish,Guadalupe,california,98911,28.929108,30.1327813,bus station
+loc1462,9,Petterle,Petrolera,california,98912,8.3266095,-1.0514312,bus station
+loc1463,2783,Myrtle,Magisterial,california,98913,-13.1340453,-64.1467066,bus station
+loc1464,78704,Crescent Oaks,Zarya,california,98914,38.2,18.6364096,bus station
+loc1465,8,Arrowood,Benito Juarez,california,98915,35.8138694,124.3654402,bus station
+loc1466,248,Novick,Noisy-le-Grand,california,98916,-8.4539,-91.8808763,school
+loc1467,61,Fair Oaks,Jintan,california,98917,45.9773921,-54.2362302,airport
+loc1468,1,Pepper Wood,Zhagang,california,98918,51.6113555,-86.1688177,airport
+loc1469,608,Park Meadow,Saverne,california,98919,35.1799817,130.3745544,airport
+loc1470,90,Kedzie,Pueai Noi,california,98920,-6.6664588,141.4098346,airport
+loc1471,27,Dixon,Blachownia,california,98921,-13.67337,40.829856,airport
+loc1472,64539,Mallard,Bechl√≠n,california,98922,34.2589679,106.804564,airport
+loc1473,9974,Lerdahl,Sampit,california,98923,-23.4697466,120.1398158,airport
+loc1474,5,Myrtle,Rusocice,california,98924,47.0914911,-91.3582385,airport
+loc1475,86,Cottonwood,Erdaohe,california,98925,-11.9784745,-52.3613378,mall
+loc1476,12,Meadow Vale,Senduro,california,98926,31.880273,-91.7270911,mall
+loc1477,758,Browning,Dongjiao,california,98927,42.7327231,121.227926,school
+loc1478,395,Sunfield,Tambo,california,98928,38.9485485,120.103473,mosque
+loc1479,770,Saint Paul,Morales,california,98929,-9.594324,21.846991,mosque
+loc1480,97,Rockefeller,Hod HaSharon,california,98930,28.424415,12.7944645,mosque
+loc1481,2698,Erie,Xianchiyu,california,98931,33.6042793,123.39139,mosque
+loc1482,8713,Loeprich,Hope,california,98932,31.568311,33.2473218,mall
+loc1483,53,Westport,Bis√©e,california,98933,9.9046941,104.9894851,mall
+loc1484,5,4th,Shijing,california,98934,-6.2477331,23.7020975,mall
+loc1485,3811,Bonner,Barmash,california,98935,39.0392193,107.5767035,mall
+loc1486,684,Kipling,Bulakbanjar,california,98936,54.1456181,3.8308136,mall
+loc1487,4,Golden Leaf,Sikur,california,98937,46.575883,111.664316,mall
+loc1488,5572,Orin,Makarov,california,98938,-0.6000092,106.3438891,mall
+loc1489,7275,Almo,Seka,california,98939,52.5429093,22.4068944,mall
+loc1490,17204,Ridgeview,Waru,california,98940,39.3547141,-44.5805309,mall
+loc1491,3,Merchant,Troyes,california,98941,38.4438949,-95.4935119,mall
+loc1492,76,Bayside,Jingnao,california,98942,8.2961481,-8.1462729,mall
+loc1493,2793,Petterle,Agoncillo,california,98943,20.1566488,17.239347,mall
+loc1494,21231,Stuart,Werang,california,98944,40.9314367,-9.1576429,mall
+loc1495,3,Prairie Rose,San Pablo,california,98945,38.7336567,135.7683696,mall
+loc1496,490,Towne,Lai C√°ch,california,98946,38.2305534,-7.9522855,mall
+loc1497,3299,Morrow,Centre de Flacq,california,98947,-11.6104897,39.9972,mall
+loc1498,7,Prairieview,Loreto,california,98948,28.441557,-1.5401497,office
+loc1499,29,Sachtjen,Londrina,california,98949,-6.57956,121.2195627,office

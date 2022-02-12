@@ -1,0 +1,4 @@
+﻿incentiveprogram_id,trip_count_monthly_lower_threshold,trip_count_monthly_upper_threshold,driver_rating,incentive_tiers,reward_description
+1,141,160,4.7,Platinum,"vehicle maintainance,free Uber rides,health insurance"
+2,121,140,4.5,Diamond,"gas,health insurance"
+3,10,120,4,Gold,"moile phone service,uber eats credit"

@@ -1,0 +1,5 @@
+﻿coupon_id,coupon_code,discount_type,discount_amount
+1,SUMMER2021,flat,10
+2,SPRING2021,flat,5
+3,SP10,percent,10
+4,SP5,percent,5
