@@ -19,7 +19,7 @@ descriptive attributes related to fact data. The database consists of total nine
 
 ## Steps Involved:
 
-- Conceptual design  - figured out entities and the relationship, rrom all dimension tables to fact table the relationship is 1 to many(1:M)
+- Conceptual design  - figured out entities and the relationship, from all dimension tables to fact table the relationship is 1 to many(1:M)
 - Logical Design     - defined attributes, primary and foreign keys for all the tables
 - Physical design    - defined data types for all the attributes 
 - Big query was chosen because it is serverless, auto scalable and no capacity planning overheads
