@@ -22,7 +22,7 @@ descriptive attributes related to fact data. The database consists of total nine
 - Conceptual design  - figured out entities and the relationship, rrom all dimension tables to fact table the relationship is 1 to many(1:M)
 - Logical Design     - defined attributes, primary and foreign keys for all the tables
 - Physical design    - defined data types for all the attributes 
-- Big query was choosen because it is serverless, auto scalable and no capacity planning overheads
+- Big query was chosen because it is serverless, auto scalable and no capacity planning overheads
 - Created a project in bigquery, with editor access using IAM roles
 - All the dimension and fact tables were created using Create statement(s) and the data was inserted using insert statement(s).
 - Encrypted the PII data(card_number) of customer in RiderPaymentInfoDim dimension table and evaluate the data was encrypted.
